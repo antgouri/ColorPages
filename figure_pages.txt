@@ -1,0 +1,1320 @@
+Figure Analysis Report
+=====================
+
+Total PDF pages analyzed: 878
+Page offset applied: 33 (PDF page 34 = Book page 1)
+Total figures found: 654
+Figures in book content: 654
+Figures in front matter: 0
+
+Detailed Figure Information:
+===========================
+
+Figure 1-1. ): on page number: 35. This includes an offset of 33. That is this Figure 1-1 is present on page number 2 (35 of 878)
+
+Figure 1-1. The traditional approach on page number: 35. This includes an offset of 33. That is this Figure 1-1 is present on page number 2 (35 of 878)
+
+Figure 1-2. ). The program is much shorter, easier to maintain, and most likely more on page number: 35. This includes an offset of 33. That is this Figure 1-2 is present on page number 2 (35 of 878)
+
+Figure 1-2. The machine learning approach on page number: 36. This includes an offset of 33. That is this Figure 1-2 is present on page number 3 (36 of 878)
+
+Figure 1-3. ) on page number: 36. This includes an offset of 33. That is this Figure 1-3 is present on page number 3 (36 of 878)
+
+Figure 1-3. Automatically adapting to change on page number: 36. This includes an offset of 33. That is this Figure 1-3 is present on page number 3 (36 of 878)
+
+Figure 1-3. ), so even a batch learning on page number: 48. This includes an offset of 33. That is this Figure 1-3 is present on page number 15 (48 of 878)
+
+Figure 1-4. ). ML models can be on page number: 37. This includes an offset of 33. That is this Figure 1-4 is present on page number 4 (37 of 878)
+
+Figure 1-4. Machine learning can help humans learn on page number: 37. This includes an offset of 33. That is this Figure 1-4 is present on page number 4 (37 of 878)
+
+Figure 1-5. ) on page number: 40. This includes an offset of 33. That is this Figure 1-5 is present on page number 7 (40 of 878)
+
+Figure 1-5. A labeled training set for spam classification  (an example of supervised on page number: 40. This includes an offset of 33. That is this Figure 1-5 is present on page number 7 (40 of 878)
+
+Figure 1-6. ).1 To train the system, you need to give it many examples of on page number: 41. This includes an offset of 33. That is this Figure 1-6 is present on page number 8 (41 of 878)
+
+Figure 1-6. A regression problem: predict a value, given an input feature (there are on page number: 41. This includes an offset of 33. That is this Figure 1-6 is present on page number 8 (41 of 878)
+
+Figure 1-7. ). The on page number: 41. This includes an offset of 33. That is this Figure 1-7 is present on page number 8 (41 of 878)
+
+Figure 1-7. Clustering on page number: 42. This includes an offset of 33. That is this Figure 1-7 is present on page number 9 (42 of 878)
+
+Figure 1-8. ). These algorithms try to preserve on page number: 42. This includes an offset of 33. That is this Figure 1-8 is present on page number 9 (42 of 878)
+
+Figure 1-8. Example of a t-SNE visualization highlighting semantic clusters2 on page number: 43. This includes an offset of 33. That is this Figure 1-8 is present on page number 10 (43 of 878)
+
+Figure 1-9. ). The features on page number: 43. This includes an offset of 33. That is this Figure 1-9 is present on page number 10 (43 of 878)
+
+Figure 1-9. Anomaly detection on page number: 44. This includes an offset of 33. That is this Figure 1-9 is present on page number 11 (44 of 878)
+
+Figure 1-10. ) on page number: 44. This includes an offset of 33. That is this Figure 1-10 is present on page number 11 (44 of 878)
+
+Figure 1-10. Semi-supervised learning with two classes (triangles and squares): the on page number: 44. This includes an offset of 33. That is this Figure 1-10 is present on page number 11 (44 of 878)
+
+Figure 1-11. ). During training, the masked images are used as the inputs to the on page number: 45. This includes an offset of 33. That is this Figure 1-11 is present on page number 12 (45 of 878)
+
+Figure 1-11. Self-supervised learning example: input (left)  and target (right) on page number: 45. This includes an offset of 33. That is this Figure 1-11 is present on page number 12 (45 of 878)
+
+Figure 1-12. Reinforcement learning on page number: 47. This includes an offset of 33. That is this Figure 1-12 is present on page number 14 (47 of 878)
+
+Figure 1-13. ). The most common online algorithm by far is gradient descent, but on page number: 49. This includes an offset of 33. That is this Figure 1-13 is present on page number 16 (49 of 878)
+
+Figure 1-13. In online learning, a model is trained and launched into production, and on page number: 49. This includes an offset of 33. That is this Figure 1-13 is present on page number 16 (49 of 878)
+
+Figure 1-14. ) on page number: 49. This includes an offset of 33. That is this Figure 1-14 is present on page number 16 (49 of 878)
+
+Figure 1-14. Using online learning to handle huge datasets on page number: 50. This includes an offset of 33. That is this Figure 1-14 is present on page number 17 (50 of 878)
+
+Figure 1-15. the new instance on page number: 51. This includes an offset of 33. That is this Figure 1-15 is present on page number 18 (51 of 878)
+
+Figure 1-15. Instance-based learning: in this example we consider the class of the three on page number: 52. This includes an offset of 33. That is this Figure 1-15 is present on page number 19 (52 of 878)
+
+Figure 1-16. ) on page number: 52. This includes an offset of 33. That is this Figure 1-16 is present on page number 19 (52 of 878)
+
+Figure 1-16. Model-based learning on page number: 52. This includes an offset of 33. That is this Figure 1-16 is present on page number 19 (52 of 878)
+
+Figure 1-17. ) on page number: 53. This includes an offset of 33. That is this Figure 1-17 is present on page number 20 (53 of 878)
+
+Figure 1-17. Do you see a trend here? on page number: 53. This includes an offset of 33. That is this Figure 1-17 is present on page number 20 (53 of 878)
+
+Figure 1-18.  on page number: 53. This includes an offset of 33. That is this Figure 1-18 is present on page number 20 (53 of 878)
+
+Figure 1-18. A few possible linear models on page number: 54. This includes an offset of 33. That is this Figure 1-18 is present on page number 21 (54 of 878)
+
+Figure 1-19.  on page number: 54. This includes an offset of 33. That is this Figure 1-19 is present on page number 21 (54 of 878)
+
+Figure 1-19. The linear model that fits the training data best on page number: 55. This includes an offset of 33. That is this Figure 1-19 is present on page number 22 (55 of 878)
+
+Figure 1-20. summarizes the various classifications of ML systems we have discussed on page number: 57. This includes an offset of 33. That is this Figure 1-20 is present on page number 24 (57 of 878)
+
+Figure 1-20. Overview of ML categories on page number: 57. This includes an offset of 33. That is this Figure 1-20 is present on page number 24 (57 of 878)
+
+Figure 1-21. ) on page number: 58. This includes an offset of 33. That is this Figure 1-21 is present on page number 25 (58 of 878)
+
+Figure 1-21. The importance of data versus algorithms7 on page number: 58. This includes an offset of 33. That is this Figure 1-21 is present on page number 25 (58 of 878)
+
+Figure 1-22. shows what the data looks on page number: 59. This includes an offset of 33. That is this Figure 1-22 is present on page number 26 (59 of 878)
+
+Figure 1-22. A more representative training sample on page number: 60. This includes an offset of 33. That is this Figure 1-22 is present on page number 27 (60 of 878)
+
+Figure 1-23. shows an example of a high-degree polynomial life satisfaction model on page number: 62. This includes an offset of 33. That is this Figure 1-23 is present on page number 29 (62 of 878)
+
+Figure 1-23. Overfitting  the training data on page number: 62. This includes an offset of 33. That is this Figure 1-23 is present on page number 29 (62 of 878)
+
+Figure 1-24. shows three models. The dotted line represents the original model that on page number: 63. This includes an offset of 33. That is this Figure 1-24 is present on page number 30 (63 of 878)
+
+Figure 1-24. Regularization reduces the risk of overfitting on page number: 63. This includes an offset of 33. That is this Figure 1-24 is present on page number 30 (63 of 878)
+
+Figure 1-25. ): you on page number: 66. This includes an offset of 33. That is this Figure 1-25 is present on page number 33 (66 of 878)
+
+Figure 1-25. Model selection using holdout validation on page number: 66. This includes an offset of 33. That is this Figure 1-25 is present on page number 33 (66 of 878)
+
+Figure 1-26. ). After the model on page number: 67. This includes an offset of 33. That is this Figure 1-26 is present on page number 34 (67 of 878)
+
+Figure 1-26. When real data is scarce (right), you may use similar abundant data (left) on page number: 68. This includes an offset of 33. That is this Figure 1-26 is present on page number 35 (68 of 878)
+
+Figure 2-1. ). This dataset is based on data from the 1990 California on page number: 72. This includes an offset of 33. That is this Figure 2-1 is present on page number 39 (72 of 878)
+
+Figure 2-1. California housing prices on page number: 72. This includes an offset of 33. That is this Figure 2-1 is present on page number 39 (72 of 878)
+
+Figure 2-2. ), along with some other signals.2 So it’s important to make our on page number: 73. This includes an offset of 33. That is this Figure 2-2 is present on page number 40 (73 of 878)
+
+Figure 2-2. A machine learning pipeline for real estate investments on page number: 74. This includes an offset of 33. That is this Figure 2-2 is present on page number 41 (74 of 878)
+
+Figure 2-3. ). Y ou will find one notebook per chapter, plus a few extra notebooks and on page number: 78. This includes an offset of 33. That is this Figure 2-3 is present on page number 45 (78 of 878)
+
+Figure 2-3. List of notebooks in Google Colab on page number: 79. This includes an offset of 33. That is this Figure 2-3 is present on page number 46 (79 of 878)
+
+Figure 2-4. ) on page number: 78. This includes an offset of 33. That is this Figure 2-4 is present on page number 45 (78 of 878)
+
+Figure 2-4. Your notebook in Google Colab on page number: 79. This includes an offset of 33. That is this Figure 2-4 is present on page number 46 (79 of 878)
+
+Figure 2-5. ), find the file you want to download, click the vertical dots next to it (step on page number: 81. This includes an offset of 33. That is this Figure 2-5 is present on page number 48 (81 of 878)
+
+Figure 2-5. ) and follow the on-screen instructions on page number: 81. This includes an offset of 33. That is this Figure 2-5 is present on page number 48 (81 of 878)
+
+Figure 2-5. Downloading a file from a Google Colab runtime (steps 1 to 3), or mounting on page number: 81. This includes an offset of 33. That is this Figure 2-5 is present on page number 48 (81 of 878)
+
+Figure 2-6. ) on page number: 84. This includes an offset of 33. That is this Figure 2-6 is present on page number 51 (84 of 878)
+
+Figure 2-6. Top five rows in the dataset on page number: 84. This includes an offset of 33. That is this Figure 2-6 is present on page number 51 (84 of 878)
+
+Figure 2-7. ) on page number: 85. This includes an offset of 33. That is this Figure 2-7 is present on page number 52 (85 of 878)
+
+Figure 2-7. Summary of each numerical attribute on page number: 85. This includes an offset of 33. That is this Figure 2-7 is present on page number 52 (85 of 878)
+
+Figure 2-8. ) on page number: 86. This includes an offset of 33. That is this Figure 2-8 is present on page number 53 (86 of 878)
+
+Figure 2-8. A histogram for each numerical attribute on page number: 86. This includes an offset of 33. That is this Figure 2-8 is present on page number 53 (86 of 878)
+
+Figure 2-8. ): most median income values are clustered around on page number: 90. This includes an offset of 33. That is this Figure 2-8 is present on page number 57 (90 of 878)
+
+Figure 2-9. : on page number: 90. This includes an offset of 33. That is this Figure 2-9 is present on page number 57 (90 of 878)
+
+Figure 2-9. Histogram of income categories on page number: 91. This includes an offset of 33. That is this Figure 2-9 is present on page number 58 (91 of 878)
+
+Figure 2-10. compares the income category proportions in the overall dataset, in on page number: 92. This includes an offset of 33. That is this Figure 2-10 is present on page number 59 (92 of 878)
+
+Figure 2-10. Sampling bias comparison of stratified  versus purely random sampling on page number: 92. This includes an offset of 33. That is this Figure 2-10 is present on page number 59 (92 of 878)
+
+Figure 2-11. ): on page number: 93. This includes an offset of 33. That is this Figure 2-11 is present on page number 60 (93 of 878)
+
+Figure 2-11. A geographical scatterplot of the data on page number: 93. This includes an offset of 33. That is this Figure 2-11 is present on page number 60 (93 of 878)
+
+Figure 2-12. ): on page number: 93. This includes an offset of 33. That is this Figure 2-12 is present on page number 60 (93 of 878)
+
+Figure 2-12. A better visualization that highlights high-density areas on page number: 94. This includes an offset of 33. That is this Figure 2-12 is present on page number 61 (94 of 878)
+
+Figure 2-13. ). The radius of each circle repre‐ on page number: 94. This includes an offset of 33. That is this Figure 2-13 is present on page number 61 (94 of 878)
+
+Figure 2-13. California housing prices: red is expensive, blue is cheap, larger circles on page number: 95. This includes an offset of 33. That is this Figure 2-13 is present on page number 62 (95 of 878)
+
+Figure 2-14. ): on page number: 96. This includes an offset of 33. That is this Figure 2-14 is present on page number 63 (96 of 878)
+
+Figure 2-14. This scatter matrix plots every numerical attribute against every other on page number: 96. This includes an offset of 33. That is this Figure 2-14 is present on page number 63 (96 of 878)
+
+Figure 2-15. ): on page number: 97. This includes an offset of 33. That is this Figure 2-15 is present on page number 64 (97 of 878)
+
+Figure 2-15. Median income versus median house value on page number: 97. This includes an offset of 33. That is this Figure 2-15 is present on page number 64 (97 of 878)
+
+Figure 2-16. shows a variety of datasets on page number: 97. This includes an offset of 33. That is this Figure 2-16 is present on page number 64 (97 of 878)
+
+Figure 2-16. Standard correlation coefficient  of various datasets (source: Wikipedia; on page number: 98. This includes an offset of 33. That is this Figure 2-16 is present on page number 65 (98 of 878)
+
+Figure 2-17. shows how much better this feature looks on page number: 108. This includes an offset of 33. That is this Figure 2-17 is present on page number 75 (108 of 878)
+
+Figure 2-17. Transforming a feature to make it closer to a Gaussian distribution on page number: 109. This includes an offset of 33. That is this Figure 2-17 is present on page number 76 (109 of 878)
+
+Figure 2-18. shows this new feature as a function of the housing median age (solid on page number: 110. This includes an offset of 33. That is this Figure 2-18 is present on page number 77 (110 of 878)
+
+Figure 2-18. Gaussian RBF feature measuring the similarity between the housing on page number: 110. This includes an offset of 33. That is this Figure 2-18 is present on page number 77 (110 of 878)
+
+Figure 2-19. shows the 10 cluster centers found by k-means. The districts are colored on page number: 115. This includes an offset of 33. That is this Figure 2-19 is present on page number 82 (115 of 878)
+
+Figure 2-19. Gaussian RBF similarity to the nearest cluster center on page number: 115. This includes an offset of 33. That is this Figure 2-19 is present on page number 82 (115 of 878)
+
+Figure 2-20. ) on page number: 122. This includes an offset of 33. That is this Figure 2-20 is present on page number 89 (122 of 878)
+
+Figure 2-20. k-fold cross-validation, with k = 10 on page number: 122. This includes an offset of 33. That is this Figure 2-20 is present on page number 89 (122 of 878)
+
+Figure 2-21. ). This makes on page number: 131. This includes an offset of 33. That is this Figure 2-21 is present on page number 98 (131 of 878)
+
+Figure 2-21. A model deployed as a web service and used by a web application on page number: 131. This includes an offset of 33. That is this Figure 2-21 is present on page number 98 (131 of 878)
+
+Figure 3-1. ) on page number: 138. This includes an offset of 33. That is this Figure 3-1 is present on page number 105 (138 of 878)
+
+Figure 3-1. Example of an MNIST image on page number: 139. This includes an offset of 33. That is this Figure 3-1 is present on page number 106 (139 of 878)
+
+Figure 3-2. shows a few on page number: 139. This includes an offset of 33. That is this Figure 3-2 is present on page number 106 (139 of 878)
+
+Figure 3-2. Digits from the MNIST dataset on page number: 140. This includes an offset of 33. That is this Figure 3-2 is present on page number 107 (140 of 878)
+
+Figure 3-3. may help on page number: 144. This includes an offset of 33. That is this Figure 3-3 is present on page number 111 (144 of 878)
+
+Figure 3-3. An illustrated confusion matrix showing examples of true negatives (top left), on page number: 144. This includes an offset of 33. That is this Figure 3-3 is present on page number 111 (144 of 878)
+
+Figure 3-4. shows a few digits positioned on page number: 145. This includes an offset of 33. That is this Figure 3-4 is present on page number 112 (145 of 878)
+
+Figure 3-4. The precision/recall trade-off:  images are ranked by their classifier  score, on page number: 146. This includes an offset of 33. That is this Figure 3-4 is present on page number 113 (146 of 878)
+
+Figure 3-4. and notice what on page number: 148. This includes an offset of 33. That is this Figure 3-4 is present on page number 115 (148 of 878)
+
+Figure 3-5. ). Let’s show the threshold of 3,000 we selected: on page number: 147. This includes an offset of 33. That is this Figure 3-5 is present on page number 114 (147 of 878)
+
+Figure 3-5. Precision and recall versus the decision threshold on page number: 147. This includes an offset of 33. That is this Figure 3-5 is present on page number 114 (147 of 878)
+
+Figure 3-5. . The reason is that precision may sometimes go on page number: 148. This includes an offset of 33. That is this Figure 3-5 is present on page number 115 (148 of 878)
+
+Figure 3-6. (the same threshold is shown): on page number: 148. This includes an offset of 33. That is this Figure 3-6 is present on page number 115 (148 of 878)
+
+Figure 3-6. Precision versus recall on page number: 148. This includes an offset of 33. That is this Figure 3-6 is present on page number 115 (148 of 878)
+
+Figure 3-6. again) on page number: 151. This includes an offset of 33. That is this Figure 3-6 is present on page number 118 (151 of 878)
+
+Figure 3-6. ). To summarize this curve on page number: 504. This includes an offset of 33. That is this Figure 3-6 is present on page number 471 (504 of 878)
+
+Figure 3-6. ). This is one of the motivations for the mAP metric on page number: 504. This includes an offset of 33. That is this Figure 3-6 is present on page number 471 (504 of 878)
+
+Figure 3-7. . To find the point that corresponds to 90% precision, on page number: 150. This includes an offset of 33. That is this Figure 3-7 is present on page number 117 (150 of 878)
+
+Figure 3-7. A ROC curve plotting the false positive rate against the true positive rate for on page number: 151. This includes an offset of 33. That is this Figure 3-7 is present on page number 118 (151 of 878)
+
+Figure 3-8. ): on page number: 152. This includes an offset of 33. That is this Figure 3-8 is present on page number 119 (152 of 878)
+
+Figure 3-8. Comparing PR curves: the random forest classifier  is superior to the SGD on page number: 153. This includes an offset of 33. That is this Figure 3-8 is present on page number 120 (153 of 878)
+
+Figure 3-8. , the RandomForestClassifier ’s PR curve looks much on page number: 153. This includes an offset of 33. That is this Figure 3-8 is present on page number 120 (153 of 878)
+
+Figure 3-9. . This confusion matrix looks pretty on page number: 157. This includes an offset of 33. That is this Figure 3-9 is present on page number 124 (157 of 878)
+
+Figure 3-9. : on page number: 157. This includes an offset of 33. That is this Figure 3-9 is present on page number 124 (157 of 878)
+
+Figure 3-9. Confusion matrix (left)  and the same CM normalized by row (right) on page number: 157. This includes an offset of 33. That is this Figure 3-9 is present on page number 124 (157 of 878)
+
+Figure 3-9.  on page number: 158. This includes an offset of 33. That is this Figure 3-9 is present on page number 125 (158 of 878)
+
+Figure 3-10. : on page number: 158. This includes an offset of 33. That is this Figure 3-10 is present on page number 125 (158 of 878)
+
+Figure 3-10. Confusion matrix with errors only, normalized by row (left)  and by column on page number: 158. This includes an offset of 33. That is this Figure 3-10 is present on page number 125 (158 of 878)
+
+Figure 3-10. . For on page number: 158. This includes an offset of 33. That is this Figure 3-10 is present on page number 125 (158 of 878)
+
+Figure 3-11. ): on page number: 159. This includes an offset of 33. That is this Figure 3-11 is present on page number 126 (159 of 878)
+
+Figure 3-11. Some images of 3s and 5s organized like a confusion matrix on page number: 159. This includes an offset of 33. That is this Figure 3-11 is present on page number 126 (159 of 878)
+
+Figure 3-12. ). Y es, we’re snooping on page number: 163. This includes an offset of 33. That is this Figure 3-12 is present on page number 130 (163 of 878)
+
+Figure 3-12. A noisy image (left)  and the target clean image (right) on page number: 163. This includes an offset of 33. That is this Figure 3-12 is present on page number 130 (163 of 878)
+
+Figure 3-13. ): on page number: 163. This includes an offset of 33. That is this Figure 3-13 is present on page number 130 (163 of 878)
+
+Figure 3-13. The cleaned-up image on page number: 163. This includes an offset of 33. That is this Figure 3-13 is present on page number 130 (163 of 878)
+
+Figure 4-1. ): on page number: 169. This includes an offset of 33. That is this Figure 4-1 is present on page number 136 (169 of 878)
+
+Figure 4-1. A randomly generated linear dataset on page number: 169. This includes an offset of 33. That is this Figure 4-1 is present on page number 136 (169 of 878)
+
+Figure 4-2. ): on page number: 170. This includes an offset of 33. That is this Figure 4-2 is present on page number 137 (170 of 878)
+
+Figure 4-2. Linear regression model predictions on page number: 170. This includes an offset of 33. That is this Figure 4-2 is present on page number 137 (170 of 878)
+
+Figure 4-3. ) on page number: 172. This includes an offset of 33. That is this Figure 4-3 is present on page number 139 (172 of 878)
+
+Figure 4-3. In this depiction of gradient descent, the model parameters are initialized on page number: 172. This includes an offset of 33. That is this Figure 4-3 is present on page number 139 (172 of 878)
+
+Figure 4-4. ) on page number: 173. This includes an offset of 33. That is this Figure 4-4 is present on page number 140 (173 of 878)
+
+Figure 4-4. Learning rate too small on page number: 173. This includes an offset of 33. That is this Figure 4-4 is present on page number 140 (173 of 878)
+
+Figure 4-5. ) on page number: 173. This includes an offset of 33. That is this Figure 4-5 is present on page number 140 (173 of 878)
+
+Figure 4-5. Learning rate too high on page number: 173. This includes an offset of 33. That is this Figure 4-5 is present on page number 140 (173 of 878)
+
+Figure 4-6. shows the two main challenges with gradient descent on page number: 173. This includes an offset of 33. That is this Figure 4-6 is present on page number 140 (173 of 878)
+
+Figure 4-6. Gradient descent pitfalls on page number: 174. This includes an offset of 33. That is this Figure 4-6 is present on page number 141 (174 of 878)
+
+Figure 4-6. ), this can actually help on page number: 178. This includes an offset of 33. That is this Figure 4-6 is present on page number 145 (178 of 878)
+
+Figure 4-7. shows gradient descent on a training set on page number: 174. This includes an offset of 33. That is this Figure 4-7 is present on page number 141 (174 of 878)
+
+Figure 4-7. Gradient descent with (left)  and without (right) feature scaling on page number: 175. This includes an offset of 33. That is this Figure 4-7 is present on page number 142 (175 of 878)
+
+Figure 4-7. ). Gradient descent goes on page number: 420. This includes an offset of 33. That is this Figure 4-7 is present on page number 387 (420 of 878)
+
+Figure 4-8. shows on page number: 177. This includes an offset of 33. That is this Figure 4-8 is present on page number 144 (177 of 878)
+
+Figure 4-8. Gradient descent with various learning rates on page number: 177. This includes an offset of 33. That is this Figure 4-8 is present on page number 144 (177 of 878)
+
+Figure 4-9. ). Once the on page number: 178. This includes an offset of 33. That is this Figure 4-9 is present on page number 145 (178 of 878)
+
+Figure 4-9. With stochastic gradient descent, each training step is much faster but also on page number: 179. This includes an offset of 33. That is this Figure 4-9 is present on page number 146 (179 of 878)
+
+Figure 4-10. shows the first 20 steps of training (notice how irregular the steps are) on page number: 180. This includes an offset of 33. That is this Figure 4-10 is present on page number 147 (180 of 878)
+
+Figure 4-10. The first 20 steps of stochastic gradient descent on page number: 180. This includes an offset of 33. That is this Figure 4-10 is present on page number 147 (180 of 878)
+
+Figure 4-11. shows the paths taken by the three gradient descent algorithms in parameter space on page number: 181. This includes an offset of 33. That is this Figure 4-11 is present on page number 148 (181 of 878)
+
+Figure 4-11. Gradient descent paths in parameter space on page number: 182. This includes an offset of 33. That is this Figure 4-11 is present on page number 149 (182 of 878)
+
+Figure 4-12. ), on page number: 183. This includes an offset of 33. That is this Figure 4-12 is present on page number 150 (183 of 878)
+
+Figure 4-12. Generated nonlinear and noisy dataset on page number: 183. This includes an offset of 33. That is this Figure 4-12 is present on page number 150 (183 of 878)
+
+Figure 4-13. ): on page number: 183. This includes an offset of 33. That is this Figure 4-13 is present on page number 150 (183 of 878)
+
+Figure 4-13. Polynomial regression model predictions on page number: 184. This includes an offset of 33. That is this Figure 4-13 is present on page number 151 (184 of 878)
+
+Figure 4-14. applies a on page number: 184. This includes an offset of 33. That is this Figure 4-14 is present on page number 151 (184 of 878)
+
+Figure 4-14. High-degree polynomial regression on page number: 185. This includes an offset of 33. That is this Figure 4-14 is present on page number 152 (185 of 878)
+
+Figure 4-15. ): on page number: 185. This includes an offset of 33. That is this Figure 4-15 is present on page number 152 (185 of 878)
+
+Figure 4-15. Learning curves on page number: 186. This includes an offset of 33. That is this Figure 4-15 is present on page number 153 (186 of 878)
+
+Figure 4-16. ): on page number: 187. This includes an offset of 33. That is this Figure 4-16 is present on page number 154 (187 of 878)
+
+Figure 4-16. Learning curves for the 10th-degree polynomial model on page number: 187. This includes an offset of 33. That is this Figure 4-16 is present on page number 154 (187 of 878)
+
+Figure 4-17. ). This is why it is called a trade-off on page number: 188. This includes an offset of 33. That is this Figure 4-17 is present on page number 155 (188 of 878)
+
+Figure 4-17. Bias/variance trade-off on page number: 188. This includes an offset of 33. That is this Figure 4-17 is present on page number 155 (188 of 878)
+
+Figure 4-18. shows several ridge models that were trained on some very noisy on page number: 190. This includes an offset of 33. That is this Figure 4-18 is present on page number 157 (190 of 878)
+
+Figure 4-18. Linear (left)  and polynomial (right) models, both with various levels of on page number: 191. This includes an offset of 33. That is this Figure 4-18 is present on page number 158 (191 of 878)
+
+Figure 4-19. shows the same thing as Figure 4-18  but replaces the ridge models with on page number: 192. This includes an offset of 33. That is this Figure 4-19 is present on page number 159 (192 of 878)
+
+Figure 4-19. (with α = 0.01) looks roughly cubic: all the on page number: 192. This includes an offset of 33. That is this Figure 4-19 is present on page number 159 (192 of 878)
+
+Figure 4-19. Linear (left)  and polynomial (right) models, both using various levels of on page number: 193. This includes an offset of 33. That is this Figure 4-19 is present on page number 160 (193 of 878)
+
+Figure 4-20. : on page number: 193. This includes an offset of 33. That is this Figure 4-20 is present on page number 160 (193 of 878)
+
+Figure 4-20. Lasso versus ridge regularization on page number: 194. This includes an offset of 33. That is this Figure 4-20 is present on page number 161 (194 of 878)
+
+Figure 4-21. shows a complex model (in this case, a on page number: 196. This includes an offset of 33. That is this Figure 4-21 is present on page number 163 (196 of 878)
+
+Figure 4-21. Early stopping regularization on page number: 196. This includes an offset of 33. That is this Figure 4-21 is present on page number 163 (196 of 878)
+
+Figure 4-22.  on page number: 198. This includes an offset of 33. That is this Figure 4-22 is present on page number 165 (198 of 878)
+
+Figure 4-22. Logistic function on page number: 198. This includes an offset of 33. That is this Figure 4-22 is present on page number 165 (198 of 878)
+
+Figure 4-23. ) on page number: 200. This includes an offset of 33. That is this Figure 4-23 is present on page number 167 (200 of 878)
+
+Figure 4-23. Flowers of three iris plant species14 on page number: 201. This includes an offset of 33. That is this Figure 4-23 is present on page number 168 (201 of 878)
+
+Figure 4-24. ):15 on page number: 202. This includes an offset of 33. That is this Figure 4-24 is present on page number 169 (202 of 878)
+
+Figure 4-24. Estimated probabilities and decision boundary on page number: 202. This includes an offset of 33. That is this Figure 4-24 is present on page number 169 (202 of 878)
+
+Figure 4-25. shows the same dataset, but this time displaying two features: petal width on page number: 203. This includes an offset of 33. That is this Figure 4-25 is present on page number 170 (203 of 878)
+
+Figure 4-25. Linear decision boundary on page number: 203. This includes an offset of 33. That is this Figure 4-25 is present on page number 170 (203 of 878)
+
+Figure 4-26. shows the resulting decision boundaries, represented by the background on page number: 206. This includes an offset of 33. That is this Figure 4-26 is present on page number 173 (206 of 878)
+
+Figure 4-26. Softmax  regression decision boundaries on page number: 207. This includes an offset of 33. That is this Figure 4-26 is present on page number 174 (207 of 878)
+
+Figure 5-1.  on page number: 210. This includes an offset of 33. That is this Figure 5-1 is present on page number 177 (210 of 878)
+
+Figure 5-1. Iris decision tree on page number: 210. This includes an offset of 33. That is this Figure 5-1 is present on page number 177 (210 of 878)
+
+Figure 5-1. makes predictions. Suppose you find on page number: 211. This includes an offset of 33. That is this Figure 5-1 is present on page number 178 (211 of 878)
+
+Figure 5-1. has an on page number: 215. This includes an offset of 33. That is this Figure 5-1 is present on page number 182 (215 of 878)
+
+Figure 5-2. shows this decision tree’s decision boundaries.  The thick vertical line on page number: 212. This includes an offset of 33. That is this Figure 5-2 is present on page number 179 (212 of 878)
+
+Figure 5-2. Decision tree decision boundaries on page number: 212. This includes an offset of 33. That is this Figure 5-2 is present on page number 179 (212 of 878)
+
+Figure 5-2. —for example, if the petals were 6 cm long on page number: 213. This includes an offset of 33. That is this Figure 5-2 is present on page number 180 (213 of 878)
+
+Figure 5-2. ) on page number: 222. This includes an offset of 33. That is this Figure 5-2 is present on page number 189 (222 of 878)
+
+Figure 5-3. ). Y ou can generate this dataset using the make_moons()  function on page number: 217. This includes an offset of 33. That is this Figure 5-3 is present on page number 184 (217 of 878)
+
+Figure 5-3. shows the decision boundaries of each tree: on page number: 217. This includes an offset of 33. That is this Figure 5-3 is present on page number 184 (217 of 878)
+
+Figure 5-3. Decision boundaries of an unregularized tree (left)  and a regularized tree on page number: 218. This includes an offset of 33. That is this Figure 5-3 is present on page number 185 (218 of 878)
+
+Figure 5-4.  on page number: 218. This includes an offset of 33. That is this Figure 5-4 is present on page number 185 (218 of 878)
+
+Figure 5-4. A decision tree for regression on page number: 219. This includes an offset of 33. That is this Figure 5-4 is present on page number 186 (219 of 878)
+
+Figure 5-5. . If you set on page number: 219. This includes an offset of 33. That is this Figure 5-5 is present on page number 186 (219 of 878)
+
+Figure 5-5. Predictions of two decision tree regression models on page number: 219. This includes an offset of 33. That is this Figure 5-5 is present on page number 186 (219 of 878)
+
+Figure 5-6. . These predictions are on page number: 220. This includes an offset of 33. That is this Figure 5-6 is present on page number 187 (220 of 878)
+
+Figure 5-6.  on page number: 220. This includes an offset of 33. That is this Figure 5-6 is present on page number 187 (220 of 878)
+
+Figure 5-6. Predictions of an unregularized regression tree (left)  and a regularized tree on page number: 220. This includes an offset of 33. That is this Figure 5-6 is present on page number 187 (220 of 878)
+
+Figure 5-7. shows a simple linearly separable dataset: on the left, a decision tree can split it easily, on page number: 220. This includes an offset of 33. That is this Figure 5-7 is present on page number 187 (220 of 878)
+
+Figure 5-7. Sensitivity to training set rotation on page number: 221. This includes an offset of 33. That is this Figure 5-7 is present on page number 188 (221 of 878)
+
+Figure 5-8. shows the decision boundaries of on page number: 221. This includes an offset of 33. That is this Figure 5-8 is present on page number 188 (221 of 878)
+
+Figure 5-8. A tree’s decision boundaries on the scaled and PCA-rotated iris dataset on page number: 222. This includes an offset of 33. That is this Figure 5-8 is present on page number 189 (222 of 878)
+
+Figure 5-9. (unless you set the random_state  hyper‐ on page number: 222. This includes an offset of 33. That is this Figure 5-9 is present on page number 189 (222 of 878)
+
+Figure 5-9. Retraining the same model on the same data may produce a very different on page number: 222. This includes an offset of 33. That is this Figure 5-9 is present on page number 189 (222 of 878)
+
+Figure 6-1. ) on page number: 226. This includes an offset of 33. That is this Figure 6-1 is present on page number 193 (226 of 878)
+
+Figure 6-1. Training diverse classifiers on page number: 226. This includes an offset of 33. That is this Figure 6-1 is present on page number 193 (226 of 878)
+
+Figure 6-2. ) on page number: 226. This includes an offset of 33. That is this Figure 6-2 is present on page number 193 (226 of 878)
+
+Figure 6-2. Hard voting classifier  predictions on page number: 226. This includes an offset of 33. That is this Figure 6-2 is present on page number 193 (226 of 878)
+
+Figure 6-3. shows 10 series of biased coin tosses. Y ou on page number: 227. This includes an offset of 33. That is this Figure 6-3 is present on page number 194 (227 of 878)
+
+Figure 6-3. The law of large numbers on page number: 227. This includes an offset of 33. That is this Figure 6-3 is present on page number 194 (227 of 878)
+
+Figure 6-4.  on page number: 230. This includes an offset of 33. That is this Figure 6-4 is present on page number 197 (230 of 878)
+
+Figure 6-4. Bagging and pasting involve training several predictors on different  random on page number: 230. This includes an offset of 33. That is this Figure 6-4 is present on page number 197 (230 of 878)
+
+Figure 6-4. , predictors can all be trained in parallel, via different on page number: 231. This includes an offset of 33. That is this Figure 6-4 is present on page number 198 (231 of 878)
+
+Figure 6-5. compares the decision boundary of a single decision tree with the decision on page number: 232. This includes an offset of 33. That is this Figure 6-5 is present on page number 199 (232 of 878)
+
+Figure 6-5. A single decision tree (left)  versus a bagging ensemble of 500 trees (right) on page number: 232. This includes an offset of 33. That is this Figure 6-5 is present on page number 199 (232 of 878)
+
+Figure 6-6.  on page number: 236. This includes an offset of 33. That is this Figure 6-6 is present on page number 203 (236 of 878)
+
+Figure 6-6. MNIST pixel importance (according to a random forest classifier) on page number: 236. This includes an offset of 33. That is this Figure 6-6 is present on page number 203 (236 of 878)
+
+Figure 6-6. confirms that these pixels are utterly unimportant for the classification on page number: 251. This includes an offset of 33. That is this Figure 6-6 is present on page number 218 (251 of 878)
+
+Figure 6-7. ) on page number: 237. This includes an offset of 33. That is this Figure 6-7 is present on page number 204 (237 of 878)
+
+Figure 6-7. AdaBoost sequential training with instance weight updates on page number: 237. This includes an offset of 33. That is this Figure 6-7 is present on page number 204 (237 of 878)
+
+Figure 6-8. shows the decision boundaries of five consecutive predictors on the on page number: 238. This includes an offset of 33. That is this Figure 6-8 is present on page number 205 (238 of 878)
+
+Figure 6-8. Decision boundaries of consecutive predictors on page number: 238. This includes an offset of 33. That is this Figure 6-8 is present on page number 205 (238 of 878)
+
+Figure 6-9. represents the predictions of these three trees in the left column, and the on page number: 241. This includes an offset of 33. That is this Figure 6-9 is present on page number 208 (241 of 878)
+
+Figure 6-9. In this depiction of gradient boosting, the first predictor (top left) is trained on page number: 242. This includes an offset of 33. That is this Figure 6-9 is present on page number 209 (242 of 878)
+
+Figure 6-10. shows two GBRT ensembles trained with on page number: 242. This includes an offset of 33. That is this Figure 6-10 is present on page number 209 (242 of 878)
+
+Figure 6-10. GBRT ensembles with not enough predictors (left)  and just enough (right) on page number: 243. This includes an offset of 33. That is this Figure 6-10 is present on page number 210 (243 of 878)
+
+Figure 6-11. shows such an on page number: 245. This includes an offset of 33. That is this Figure 6-11 is present on page number 212 (245 of 878)
+
+Figure 6-11. Aggregating predictions using a blending predictor on page number: 246. This includes an offset of 33. That is this Figure 6-11 is present on page number 213 (246 of 878)
+
+Figure 6-12. ), and use these on page number: 246. This includes an offset of 33. That is this Figure 6-12 is present on page number 213 (246 of 878)
+
+Figure 6-12. Training the blender in a stacking ensemble on page number: 247. This includes an offset of 33. That is this Figure 6-12 is present on page number 214 (247 of 878)
+
+Figure 6-13. . Y ou may be able to squeeze out a few more drops of performance by on page number: 246. This includes an offset of 33. That is this Figure 6-13 is present on page number 213 (246 of 878)
+
+Figure 6-13. Predictions in a multilayer stacking ensemble on page number: 247. This includes an offset of 33. That is this Figure 6-13 is present on page number 214 (247 of 878)
+
+Figure 7-1. ), let alone a 200-dimensional ellipsoid bent in a on page number: 252. This includes an offset of 33. That is this Figure 7-1 is present on page number 219 (252 of 878)
+
+Figure 7-1. Point, segment, square, cube, and tesseract (0D to 4D hypercubes)2 on page number: 252. This includes an offset of 33. That is this Figure 7-1 is present on page number 219 (252 of 878)
+
+Figure 7-2. , a 3D dataset is represented by small on page number: 253. This includes an offset of 33. That is this Figure 7-2 is present on page number 220 (253 of 878)
+
+Figure 7-2. A 3D dataset lying close to a 2D subspace on page number: 254. This includes an offset of 33. That is this Figure 7-2 is present on page number 221 (254 of 878)
+
+Figure 7-2.  on page number: 257. This includes an offset of 33. That is this Figure 7-2 is present on page number 224 (257 of 878)
+
+Figure 7-2. , the first two PCs are on the projection plane, and the on page number: 258. This includes an offset of 33. That is this Figure 7-2 is present on page number 225 (258 of 878)
+
+Figure 7-2. , then it extracts the on page number: 259. This includes an offset of 33. That is this Figure 7-2 is present on page number 226 (259 of 878)
+
+Figure 7-2. the 3D dataset on page number: 260. This includes an offset of 33. That is this Figure 7-2 is present on page number 227 (260 of 878)
+
+Figure 7-2. : on page number: 261. This includes an offset of 33. That is this Figure 7-2 is present on page number 228 (261 of 878)
+
+Figure 7-3. . Ta-da! We have just reduced the dataset’s dimensionality from 3D to 2D on page number: 254. This includes an offset of 33. That is this Figure 7-3 is present on page number 221 (254 of 878)
+
+Figure 7-3. The new 2D dataset after  projection on page number: 254. This includes an offset of 33. That is this Figure 7-3 is present on page number 221 (254 of 878)
+
+Figure 7-3. , on page number: 258. This includes an offset of 33. That is this Figure 7-3 is present on page number 225 (258 of 878)
+
+Figure 7-4. : this is a toy dataset containing 3D on page number: 255. This includes an offset of 33. That is this Figure 7-4 is present on page number 222 (255 of 878)
+
+Figure 7-4. Swiss roll dataset on page number: 255. This includes an offset of 33. That is this Figure 7-4 is present on page number 222 (255 of 878)
+
+Figure 7-5. . What you probably on page number: 255. This includes an offset of 33. That is this Figure 7-5 is present on page number 222 (255 of 878)
+
+Figure 7-5.  on page number: 255. This includes an offset of 33. That is this Figure 7-5 is present on page number 222 (255 of 878)
+
+Figure 7-5. Squashing by projecting onto a plane (left)  versus unrolling the Swiss roll on page number: 255. This includes an offset of 33. That is this Figure 7-5 is present on page number 222 (255 of 878)
+
+Figure 7-6. the Swiss roll is split into two classes: in the 3D space (on the left) the decision on page number: 256. This includes an offset of 33. That is this Figure 7-6 is present on page number 223 (256 of 878)
+
+Figure 7-6. , the decision boundary is located at x1 = 5. This decision boundary on page number: 256. This includes an offset of 33. That is this Figure 7-6 is present on page number 223 (256 of 878)
+
+Figure 7-6. The decision boundary may not always be simpler with lower dimensions on page number: 257. This includes an offset of 33. That is this Figure 7-6 is present on page number 224 (257 of 878)
+
+Figure 7-7. , along with three different axes (i.e., 1D hyperplanes) on page number: 257. This includes an offset of 33. That is this Figure 7-7 is present on page number 224 (257 of 878)
+
+Figure 7-7. Selecting the subspace on which to project on page number: 258. This includes an offset of 33. That is this Figure 7-7 is present on page number 225 (258 of 878)
+
+Figure 7-7. , it is the solid line. It also finds a second axis, orthogonal to on page number: 258. This includes an offset of 33. That is this Figure 7-7 is present on page number 225 (258 of 878)
+
+Figure 7-7. , the on page number: 258. This includes an offset of 33. That is this Figure 7-7 is present on page number 225 (258 of 878)
+
+Figure 7-8. ). There will usually be an elbow in the on page number: 262. This includes an offset of 33. That is this Figure 7-8 is present on page number 229 (262 of 878)
+
+Figure 7-8. Explained variance as a function of the number of dimensions on page number: 262. This includes an offset of 33. That is this Figure 7-8 is present on page number 229 (262 of 878)
+
+Figure 7-9. shows a few digits from the original training set (on the left), and the on page number: 263. This includes an offset of 33. That is this Figure 7-9 is present on page number 230 (263 of 878)
+
+Figure 7-9. MNIST compression that preserves 95% of the variance on page number: 264. This includes an offset of 33. That is this Figure 7-9 is present on page number 231 (264 of 878)
+
+Figure 7-10.  on page number: 269. This includes an offset of 33. That is this Figure 7-10 is present on page number 236 (269 of 878)
+
+Figure 7-10. Unrolled Swiss roll using LLE on page number: 269. This includes an offset of 33. That is this Figure 7-10 is present on page number 236 (269 of 878)
+
+Figure 7-11. shows the results of MDS, Isomap, and t-SNE on the Swiss roll. MDS on page number: 272. This includes an offset of 33. That is this Figure 7-11 is present on page number 239 (272 of 878)
+
+Figure 7-11. Using various techniques to reduce the Swiss roll to 2D on page number: 272. This includes an offset of 33. That is this Figure 7-11 is present on page number 239 (272 of 878)
+
+Figure 8-1. : on the on page number: 276. This includes an offset of 33. That is this Figure 8-1 is present on page number 243 (276 of 878)
+
+Figure 8-1. Classification  (left)  versus clustering (right): in clustering, the dataset is on page number: 277. This includes an offset of 33. That is this Figure 8-1 is present on page number 244 (277 of 878)
+
+Figure 8-2. : you can clearly see five on page number: 279. This includes an offset of 33. That is this Figure 8-2 is present on page number 246 (279 of 878)
+
+Figure 8-2. An unlabeled dataset composed of five blobs of instances on page number: 279. This includes an offset of 33. That is this Figure 8-2 is present on page number 246 (279 of 878)
+
+Figure 8-3. , where each centroid is represented with an ⓧ on page number: 280. This includes an offset of 33. That is this Figure 8-3 is present on page number 247 (280 of 878)
+
+Figure 8-3. k-means decision boundaries (Voronoi tessellation) on page number: 280. This includes an offset of 33. That is this Figure 8-3 is present on page number 247 (280 of 878)
+
+Figure 8-3. will be selected (unless we on page number: 283. This includes an offset of 33. That is this Figure 8-3 is present on page number 250 (283 of 878)
+
+Figure 8-4. : the centroids are initialized on page number: 281. This includes an offset of 33. That is this Figure 8-4 is present on page number 248 (281 of 878)
+
+Figure 8-4. The k-means algorithm on page number: 282. This includes an offset of 33. That is this Figure 8-4 is present on page number 249 (282 of 878)
+
+Figure 8-5. shows two suboptimal solutions that the on page number: 282. This includes an offset of 33. That is this Figure 8-5 is present on page number 249 (282 of 878)
+
+Figure 8-5. Suboptimal solutions due to unlucky centroid initializations on page number: 283. This includes an offset of 33. That is this Figure 8-5 is present on page number 250 (283 of 878)
+
+Figure 8-5. , 600.4 for on page number: 283. This includes an offset of 33. That is this Figure 8-5 is present on page number 250 (283 of 878)
+
+Figure 8-5. , and only 211.6 for the model in Figure 8-3 . The on page number: 283. This includes an offset of 33. That is this Figure 8-5 is present on page number 250 (283 of 878)
+
+Figure 8-6. , for this dataset setting k to 3 or 8 results in fairly bad on page number: 285. This includes an offset of 33. That is this Figure 8-6 is present on page number 252 (285 of 878)
+
+Figure 8-6. Bad choices for the number of clusters: when k is too small, separate clusters on page number: 286. This includes an offset of 33. That is this Figure 8-6 is present on page number 253 (286 of 878)
+
+Figure 8-7. ) on page number: 285. This includes an offset of 33. That is this Figure 8-7 is present on page number 252 (285 of 878)
+
+Figure 8-7. Plotting the inertia as a function of the number of clusters k on page number: 286. This includes an offset of 33. That is this Figure 8-7 is present on page number 253 (286 of 878)
+
+Figure 8-8. ) on page number: 287. This includes an offset of 33. That is this Figure 8-8 is present on page number 254 (287 of 878)
+
+Figure 8-8. Selecting the number of clusters k using the silhouette score on page number: 287. This includes an offset of 33. That is this Figure 8-8 is present on page number 254 (287 of 878)
+
+Figure 8-9. ). Each diagram on page number: 287. This includes an offset of 33. That is this Figure 8-9 is present on page number 254 (287 of 878)
+
+Figure 8-9. Analyzing the silhouette diagrams for various values of k on page number: 288. This includes an offset of 33. That is this Figure 8-9 is present on page number 255 (288 of 878)
+
+Figure 8-10. shows how on page number: 288. This includes an offset of 33. That is this Figure 8-10 is present on page number 255 (288 of 878)
+
+Figure 8-10. k-means fails to cluster these ellipsoidal blobs properly on page number: 289. This includes an offset of 33. That is this Figure 8-10 is present on page number 256 (289 of 878)
+
+Figure 8-10. .7 on page number: 299. This includes an offset of 33. That is this Figure 8-10 is present on page number 266 (299 of 878)
+
+Figure 8-11. ), assuming it’s located at filepath : on page number: 290. This includes an offset of 33. That is this Figure 8-11 is present on page number 257 (290 of 878)
+
+Figure 8-11. . Y ou can experiment on page number: 290. This includes an offset of 33. That is this Figure 8-11 is present on page number 257 (290 of 878)
+
+Figure 8-11. Image segmentation using k-means with various numbers of color clusters on page number: 291. This includes an offset of 33. That is this Figure 8-11 is present on page number 258 (291 of 878)
+
+Figure 8-12. shows the 50 representative images on page number: 292. This includes an offset of 33. That is this Figure 8-12 is present on page number 259 (292 of 878)
+
+Figure 8-12. Fifty  representative digit images (one per cluster) on page number: 292. This includes an offset of 33. That is this Figure 8-12 is present on page number 259 (292 of 878)
+
+Figure 8-13. . As you can see, it on page number: 296. This includes an offset of 33. That is this Figure 8-13 is present on page number 263 (296 of 878)
+
+Figure 8-13. DBSCAN clustering using two different  neighborhood radiuses on page number: 296. This includes an offset of 33. That is this Figure 8-13 is present on page number 263 (296 of 878)
+
+Figure 8-14. (the crosses represent the four on page number: 296. This includes an offset of 33. That is this Figure 8-14 is present on page number 263 (296 of 878)
+
+Figure 8-14. Decision boundary between two clusters on page number: 297. This includes an offset of 33. That is this Figure 8-14 is present on page number 264 (297 of 878)
+
+Figure 8-15. shows the cluster means, the decision boundaries (dashed lines), and the on page number: 302. This includes an offset of 33. That is this Figure 8-15 is present on page number 269 (302 of 878)
+
+Figure 8-15. Cluster means, decision boundaries, and density contours of a trained on page number: 302. This includes an offset of 33. That is this Figure 8-15 is present on page number 269 (302 of 878)
+
+Figure 8-15.  on page number: 308. This includes an offset of 33. That is this Figure 8-15 is present on page number 275 (308 of 878)
+
+Figure 8-16. plots the solutions found by the EM algorithm when on page number: 303. This includes an offset of 33. That is this Figure 8-16 is present on page number 270 (303 of 878)
+
+Figure 8-16. Gaussian mixtures for tied clusters (left)  and spherical clusters (right) on page number: 303. This includes an offset of 33. That is this Figure 8-16 is present on page number 270 (303 of 878)
+
+Figure 8-17. represents these anomalies as stars on page number: 304. This includes an offset of 33. That is this Figure 8-17 is present on page number 271 (304 of 878)
+
+Figure 8-17. Anomaly detection using a Gaussian mixture model on page number: 304. This includes an offset of 33. That is this Figure 8-17 is present on page number 271 (304 of 878)
+
+Figure 8-18. shows the entire on page number: 306. This includes an offset of 33. That is this Figure 8-18 is present on page number 273 (306 of 878)
+
+Figure 8-18. A model’s parametric function (top left),  and some derived functions: a PDF on page number: 306. This includes an offset of 33. That is this Figure 8-18 is present on page number 273 (306 of 878)
+
+Figure 8-18. ). Indeed, the logarithm is on page number: 307. This includes an offset of 33. That is this Figure 8-18 is present on page number 274 (307 of 878)
+
+Figure 8-19. shows the BIC for different numbers of clusters k. As you can see, both on page number: 307. This includes an offset of 33. That is this Figure 8-19 is present on page number 274 (307 of 878)
+
+Figure 8-19. AIC and BIC for different  numbers of clusters k on page number: 307. This includes an offset of 33. That is this Figure 8-19 is present on page number 274 (307 of 878)
+
+Figure 8-20. ) on page number: 308. This includes an offset of 33. That is this Figure 8-20 is present on page number 275 (308 of 878)
+
+Figure 8-20. Fitting a Gaussian mixture to nonellipsoidal clusters on page number: 308. This includes an offset of 33. That is this Figure 8-20 is present on page number 275 (308 of 878)
+
+Figure 9-1. ). It is an unusual-looking cell mostly found in animal on page number: 317. This includes an offset of 33. That is this Figure 9-1 is present on page number 284 (317 of 878)
+
+Figure 9-1. A biological neuron4 on page number: 318. This includes an offset of 33. That is this Figure 9-1 is present on page number 285 (318 of 878)
+
+Figure 9-2.  on page number: 318. This includes an offset of 33. That is this Figure 9-2 is present on page number 285 (318 of 878)
+
+Figure 9-2. Multiple layers in a biological neural network (human cortex)6 on page number: 319. This includes an offset of 33. That is this Figure 9-2 is present on page number 286 (319 of 878)
+
+Figure 9-3. ), assuming that a neuron is activated when at least two of its input on page number: 319. This includes an offset of 33. That is this Figure 9-3 is present on page number 286 (319 of 878)
+
+Figure 9-3. ANNs performing simple logical computations on page number: 319. This includes an offset of 33. That is this Figure 9-3 is present on page number 286 (319 of 878)
+
+Figure 9-3. ) 2 on page number: 344. This includes an offset of 33. That is this Figure 9-3 is present on page number 311 (344 of 878)
+
+Figure 9-4. ) called on page number: 320. This includes an offset of 33. That is this Figure 9-4 is present on page number 287 (320 of 878)
+
+Figure 9-4. TLU: an artificial  neuron that computes a weighted sum of its inputs w⊺ x, on page number: 320. This includes an offset of 33. That is this Figure 9-4 is present on page number 287 (320 of 878)
+
+Figure 9-5.  on page number: 321. This includes an offset of 33. That is this Figure 9-5 is present on page number 288 (321 of 878)
+
+Figure 9-5. Architecture of a perceptron with two inputs and three output neurons on page number: 321. This includes an offset of 33. That is this Figure 9-5 is present on page number 288 (321 of 878)
+
+Figure 9-6. ). This is true of any other on page number: 324. This includes an offset of 33. That is this Figure 9-6 is present on page number 291 (324 of 878)
+
+Figure 9-6. : with inputs (0, 0) or (1, 1), on page number: 324. This includes an offset of 33. That is this Figure 9-6 is present on page number 291 (324 of 878)
+
+Figure 9-6. XOR classification  problem and an MLP that solves it on page number: 325. This includes an offset of 33. That is this Figure 9-6 is present on page number 292 (325 of 878)
+
+Figure 9-7. ). The layers close to the input layer are usually called on page number: 324. This includes an offset of 33. That is this Figure 9-7 is present on page number 291 (324 of 878)
+
+Figure 9-7. Architecture of a multilayer perceptron with two inputs, one hidden layer of on page number: 325. This includes an offset of 33. That is this Figure 9-7 is present on page number 292 (325 of 878)
+
+Figure 9-8. Activation functions (left)  and their derivatives (right) on page number: 329. This includes an offset of 33. That is this Figure 9-8 is present on page number 296 (329 of 878)
+
+Figure 9-9. plots the model’s on page number: 332. This includes an offset of 33. That is this Figure 9-9 is present on page number 299 (332 of 878)
+
+Figure 9-9. MLP regressor’s predictions versus the targets on page number: 332. This includes an offset of 33. That is this Figure 9-9 is present on page number 299 (332 of 878)
+
+Figure 9-10. ). The softmax function (introduced in Chapter 4 ) on page number: 334. This includes an offset of 33. That is this Figure 9-10 is present on page number 301 (334 of 878)
+
+Figure 9-10. A modern MLP (including ReLU and softmax)  for classification on page number: 334. This includes an offset of 33. That is this Figure 9-10 is present on page number 301 (334 of 878)
+
+Figure 9-11.  on page number: 335. This includes an offset of 33. That is this Figure 9-11 is present on page number 302 (335 of 878)
+
+Figure 9-11. First four samples from each class in Fashion MNIST on page number: 336. This includes an offset of 33. That is this Figure 9-11 is present on page number 303 (336 of 878)
+
+Figure 10-1. . This architecture makes it possible for the neural network to learn both on page number: 370. This includes an offset of 33. That is this Figure 10-1 is present on page number 337 (370 of 878)
+
+Figure 10-1. Wide & Deep neural network on page number: 370. This includes an offset of 33. That is this Figure 10-1 is present on page number 337 (370 of 878)
+
+Figure 10-2. ? In this case, one approach is to split the inputs inside the forward() on page number: 371. This includes an offset of 33. That is this Figure 10-2 is present on page number 338 (371 of 878)
+
+Figure 10-2. , we must start on page number: 372. This includes an offset of 33. That is this Figure 10-2 is present on page number 339 (372 of 878)
+
+Figure 10-2. Handling multiple inputs on page number: 372. This includes an offset of 33. That is this Figure 10-2 is present on page number 339 (372 of 878)
+
+Figure 10-3. ) to ensure that the underlying part of the network learns on page number: 374. This includes an offset of 33. That is this Figure 10-3 is present on page number 341 (374 of 878)
+
+Figure 10-3. Handling multiple outputs, in this example to add an auxiliary output for on page number: 374. This includes an offset of 33. That is this Figure 10-3 is present on page number 341 (374 of 878)
+
+Figure 11-1. ), you can see that when on page number: 395. This includes an offset of 33. That is this Figure 11-1 is present on page number 362 (395 of 878)
+
+Figure 11-1. Sigmoid activation function saturation on page number: 395. This includes an offset of 33. That is this Figure 11-1 is present on page number 362 (395 of 878)
+
+Figure 11-2. ). The hyperparameter α defines how much the function “leaks”: it is the on page number: 399. This includes an offset of 33. That is this Figure 11-2 is present on page number 366 (399 of 878)
+
+Figure 11-2. Leaky ReLU: like ReLU, but with a small slope for negative values on page number: 399. This includes an offset of 33. That is this Figure 11-2 is present on page number 366 (399 of 878)
+
+Figure 11-3. ), on page number: 400. This includes an offset of 33. That is this Figure 11-3 is present on page number 367 (400 of 878)
+
+Figure 11-3. ELU and SELU activation functions on page number: 401. This includes an offset of 33. That is this Figure 11-3 is present on page number 368 (401 of 878)
+
+Figure 11-4. , GELU resembles ReLU: it approaches 0 when its input on page number: 402. This includes an offset of 33. That is this Figure 11-4 is present on page number 369 (402 of 878)
+
+Figure 11-4. GELU, Swish, parametrized Swish, Mish, and ReLU2 activation functions on page number: 403. This includes an offset of 33. That is this Figure 11-4 is present on page number 370 (403 of 878)
+
+Figure 11-4. shows GELU, Swish (both with the default β on page number: 404. This includes an offset of 33. That is this Figure 11-4 is present on page number 371 (404 of 878)
+
+Figure 11-5. ) on page number: 413. This includes an offset of 33. That is this Figure 11-5 is present on page number 380 (413 of 878)
+
+Figure 11-5. Reusing pretrained layers on page number: 413. This includes an offset of 33. That is this Figure 11-5 is present on page number 380 (413 of 878)
+
+Figure 11-6. ) on page number: 416. This includes an offset of 33. That is this Figure 11-6 is present on page number 383 (416 of 878)
+
+Figure 11-6. Greedy layer-wise pretraining used in the early days of deep learning; on page number: 417. This includes an offset of 33. That is this Figure 11-6 is present on page number 384 (417 of 878)
+
+Figure 11-7. (where ∇1 represents the gradient on page number: 421. This includes an offset of 33. That is this Figure 11-7 is present on page number 388 (421 of 878)
+
+Figure 11-7. Regular versus Nesterov momentum optimization: the former applies the on page number: 421. This includes an offset of 33. That is this Figure 11-7 is present on page number 388 (421 of 878)
+
+Figure 11-8. ). One additional benefit is that it requires much less tuning of the on page number: 422. This includes an offset of 33. That is this Figure 11-8 is present on page number 389 (422 of 878)
+
+Figure 11-8. AdaGrad versus gradient descent: the former can correct its direction on page number: 423. This includes an offset of 33. That is this Figure 11-8 is present on page number 390 (423 of 878)
+
+Figure 11-9. ) on page number: 428. This includes an offset of 33. That is this Figure 11-9 is present on page number 395 (428 of 878)
+
+Figure 11-9. Learning curves for various learning rates η on page number: 429. This includes an offset of 33. That is this Figure 11-9 is present on page number 396 (429 of 878)
+
+Figure 11-10. ). All in all, cosine annealing generally performs better. The learning rate on page number: 430. This includes an offset of 33. That is this Figure 11-10 is present on page number 397 (430 of 878)
+
+Figure 11-10. Cosine annealing learning schedule on page number: 430. This includes an offset of 33. That is this Figure 11-10 is present on page number 397 (430 of 878)
+
+Figure 11-11. ). This allows gradient descent to do a lot on page number: 433. This includes an offset of 33. That is this Figure 11-11 is present on page number 400 (433 of 878)
+
+Figure 11-11. Cosine annealing with warm restarts on page number: 433. This includes an offset of 33. That is this Figure 11-11 is present on page number 400 (433 of 878)
+
+Figure 11-12. ). The hyperparameter on page number: 437. This includes an offset of 33. That is this Figure 11-12 is present on page number 404 (437 of 878)
+
+Figure 11-12. With dropout regularization, at each training iteration a random subset on page number: 438. This includes an offset of 33. That is this Figure 11-12 is present on page number 405 (438 of 878)
+
+Figure 12-1. , in which the on page number: 448. This includes an offset of 33. That is this Figure 12-1 is present on page number 415 (448 of 878)
+
+Figure 12-1. Biological neurons in the visual cortex respond to specific  patterns in small on page number: 448. This includes an offset of 33. That is this Figure 12-1 is present on page number 415 (448 of 878)
+
+Figure 12-1. , notice that each neuron is connected only to on page number: 448. This includes an offset of 33. That is this Figure 12-1 is present on page number 415 (448 of 878)
+
+Figure 12-2. ). In turn, each neuron in the second convolutional on page number: 449. This includes an offset of 33. That is this Figure 12-2 is present on page number 416 (449 of 878)
+
+Figure 12-2. CNN layers with rectangular local receptive fields on page number: 450. This includes an offset of 33. That is this Figure 12-2 is present on page number 417 (450 of 878)
+
+Figure 12-3. ) on page number: 450. This includes an offset of 33. That is this Figure 12-3 is present on page number 417 (450 of 878)
+
+Figure 12-3. Connections between layers and zero padding on page number: 451. This includes an offset of 33. That is this Figure 12-3 is present on page number 418 (451 of 878)
+
+Figure 12-4. . This dramatically reduces the model’s on page number: 450. This includes an offset of 33. That is this Figure 12-4 is present on page number 417 (450 of 878)
+
+Figure 12-4. Reducing dimensionality using a stride of 2 on page number: 451. This includes an offset of 33. That is this Figure 12-4 is present on page number 418 (451 of 878)
+
+Figure 12-5. shows two possible sets of weights, called filters  (or on page number: 452. This includes an offset of 33. That is this Figure 12-5 is present on page number 419 (452 of 878)
+
+Figure 12-5. Applying two different  filters  to get two feature maps on page number: 452. This includes an offset of 33. That is this Figure 12-5 is present on page number 419 (452 of 878)
+
+Figure 12-5. (the bottom on page number: 452. This includes an offset of 33. That is this Figure 12-5 is present on page number 419 (452 of 878)
+
+Figure 12-6. ) on page number: 453. This includes an offset of 33. That is this Figure 12-6 is present on page number 420 (453 of 878)
+
+Figure 12-6. Two convolutional layers with multiple filters  each (kernels), processing a on page number: 453. This includes an offset of 33. That is this Figure 12-6 is present on page number 420 (453 of 878)
+
+Figure 12-7. . For simplicity, only the on page number: 457. This includes an offset of 33. That is this Figure 12-7 is present on page number 424 (457 of 878)
+
+Figure 12-7. Two different  padding options, with stride=1  and kernel_size=7 on page number: 457. This includes an offset of 33. That is this Figure 12-7 is present on page number 424 (457 of 878)
+
+Figure 12-8. illustrates stride=2 , with kernel_size=7 on page number: 457. This includes an offset of 33. That is this Figure 12-8 is present on page number 424 (457 of 878)
+
+Figure 12-8. Two different  padding options, with stride=2  and kernel_size=7 : the on page number: 457. This includes an offset of 33. That is this Figure 12-8 is present on page number 424 (457 of 878)
+
+Figure 12-9. shows a max pooling layer , which is the most common type of pooling on page number: 459. This includes an offset of 33. That is this Figure 12-9 is present on page number 426 (459 of 878)
+
+Figure 12-9. , the input values are 1, 5, 3, and 2, so only the max value, 5, is propagated on page number: 459. This includes an offset of 33. That is this Figure 12-9 is present on page number 426 (459 of 878)
+
+Figure 12-9. Max pooling layer (2 × 2 pooling kernel, stride 2, no padding) on page number: 459. This includes an offset of 33. That is this Figure 12-9 is present on page number 426 (459 of 878)
+
+Figure 12-10. . Here we assume that the bright pixels have a lower value than on page number: 460. This includes an offset of 33. That is this Figure 12-10 is present on page number 427 (460 of 878)
+
+Figure 12-10. Invariance to small translations on page number: 460. This includes an offset of 33. That is this Figure 12-10 is present on page number 427 (460 of 878)
+
+Figure 12-11. ), and the depthwise max pooling layer would ensure on page number: 461. This includes an offset of 33. That is this Figure 12-11 is present on page number 428 (461 of 878)
+
+Figure 12-11. Depthwise max pooling can help the CNN learn to be invariant (to on page number: 462. This includes an offset of 33. That is this Figure 12-11 is present on page number 429 (462 of 878)
+
+Figure 12-12. ). At on page number: 464. This includes an offset of 33. That is this Figure 12-12 is present on page number 431 (464 of 878)
+
+Figure 12-12. Typical CNN architecture on page number: 464. This includes an offset of 33. That is this Figure 12-12 is present on page number 431 (464 of 878)
+
+Figure 12-13. Generating new training instances from existing ones on page number: 469. This includes an offset of 33. That is this Figure 12-13 is present on page number 436 (469 of 878)
+
+Figure 12-14. shows the architecture of an inception module. The notation “3 × 3 + on page number: 470. This includes an offset of 33. That is this Figure 12-14 is present on page number 437 (470 of 878)
+
+Figure 12-14. Inception module on page number: 470. This includes an offset of 33. That is this Figure 12-14 is present on page number 437 (470 of 878)
+
+Figure 12-14. ). Note that all the convolutional on page number: 471. This includes an offset of 33. That is this Figure 12-14 is present on page number 438 (471 of 878)
+
+Figure 12-15. ). This was made on page number: 470. This includes an offset of 33. That is this Figure 12-15 is present on page number 437 (470 of 878)
+
+Figure 12-15. ). The on page number: 471. This includes an offset of 33. That is this Figure 12-15 is present on page number 438 (471 of 878)
+
+Figure 12-15. GoogLeNet architecture on page number: 472. This includes an offset of 33. That is this Figure 12-15 is present on page number 439 (472 of 878)
+
+Figure 12-16. ) on page number: 474. This includes an offset of 33. That is this Figure 12-16 is present on page number 441 (474 of 878)
+
+Figure 12-16. Residual learning on page number: 474. This includes an offset of 33. That is this Figure 12-16 is present on page number 441 (474 of 878)
+
+Figure 12-17. ). Thanks to skip on page number: 474. This includes an offset of 33. That is this Figure 12-17 is present on page number 441 (474 of 878)
+
+Figure 12-17. Regular deep neural network (left)  and deep residual network (right) on page number: 475. This includes an offset of 33. That is this Figure 12-17 is present on page number 442 (475 of 878)
+
+Figure 12-18. ). It is surprisingly simple on page number: 474. This includes an offset of 33. That is this Figure 12-18 is present on page number 441 (474 of 878)
+
+Figure 12-18. ResNet architecture on page number: 475. This includes an offset of 33. That is this Figure 12-18 is present on page number 442 (475 of 878)
+
+Figure 12-18. ). To solve this on page number: 476. This includes an offset of 33. That is this Figure 12-18 is present on page number 443 (476 of 878)
+
+Figure 12-18. : on page number: 487. This includes an offset of 33. That is this Figure 12-18 is present on page number 454 (487 of 878)
+
+Figure 12-19. ) on page number: 476. This includes an offset of 33. That is this Figure 12-19 is present on page number 443 (476 of 878)
+
+Figure 12-19. Skip connection when changing feature map size and depth on page number: 476. This includes an offset of 33. That is this Figure 12-19 is present on page number 443 (476 of 878)
+
+Figure 12-19. pretty closely. In the constructor, we on page number: 487. This includes an offset of 33. That is this Figure 12-19 is present on page number 454 (487 of 878)
+
+Figure 12-20. ) on page number: 477. This includes an offset of 33. That is this Figure 12-20 is present on page number 444 (477 of 878)
+
+Figure 12-20. Depthwise separable convolutional layer on page number: 478. This includes an offset of 33. That is this Figure 12-20 is present on page number 445 (478 of 878)
+
+Figure 12-20. represents, but it is just for illustration pur‐ on page number: 478. This includes an offset of 33. That is this Figure 12-20 is present on page number 445 (478 of 878)
+
+Figure 12-21.  on page number: 479. This includes an offset of 33. That is this Figure 12-21 is present on page number 446 (479 of 878)
+
+Figure 12-21. SE-Inception module (left)  and SE-ResNet unit (right) on page number: 480. This includes an offset of 33. That is this Figure 12-21 is present on page number 447 (480 of 878)
+
+Figure 12-22. . For example, an SE block may learn that on page number: 480. This includes an offset of 33. That is this Figure 12-22 is present on page number 447 (480 of 878)
+
+Figure 12-22. An SE block performs feature map recalibration on page number: 480. This includes an offset of 33. That is this Figure 12-22 is present on page number 447 (480 of 878)
+
+Figure 12-23. ) on page number: 480. This includes an offset of 33. That is this Figure 12-23 is present on page number 447 (480 of 878)
+
+Figure 12-23. SE block architecture on page number: 481. This includes an offset of 33. That is this Figure 12-23 is present on page number 448 (481 of 878)
+
+Figure 12-24. ). In on page number: 496. This includes an offset of 33. That is this Figure 12-24 is present on page number 463 (496 of 878)
+
+Figure 12-24. IoU metric for bounding boxes on page number: 497. This includes an offset of 33. That is this Figure 12-24 is present on page number 464 (497 of 878)
+
+Figure 12-25. . In this example, the image on page number: 498. This includes an offset of 33. That is this Figure 12-25 is present on page number 465 (498 of 878)
+
+Figure 12-25. Detecting multiple objects by sliding a CNN across the image on page number: 498. This includes an offset of 33. That is this Figure 12-25 is present on page number 465 (498 of 878)
+
+Figure 12-25. , the bounding box with the on page number: 499. This includes an offset of 33. That is this Figure 12-25 is present on page number 466 (499 of 878)
+
+Figure 12-26. ). For example, this would be the case if the on page number: 501. This includes an offset of 33. That is this Figure 12-26 is present on page number 468 (501 of 878)
+
+Figure 12-26. ), the bottleneck layer will now output 14 × 14 feature on page number: 501. This includes an offset of 33. That is this Figure 12-26 is present on page number 468 (501 of 878)
+
+Figure 12-26. The same fully convolutional network processing a small image (left)  and a on page number: 502. This includes an offset of 33. That is this Figure 12-26 is present on page number 469 (502 of 878)
+
+Figure 12-27.  on page number: 507. This includes an offset of 33. That is this Figure 12-27 is present on page number 474 (507 of 878)
+
+Figure 12-27. Semantic segmentation on page number: 508. This includes an offset of 33. That is this Figure 12-27 is present on page number 475 (508 of 878)
+
+Figure 12-28. ). Alternatively, some people prefer to think of on page number: 508. This includes an offset of 33. That is this Figure 12-28 is present on page number 475 (508 of 878)
+
+Figure 12-28. ). The transposed convolutional layer can be initialized to perform on page number: 508. This includes an offset of 33. That is this Figure 12-28 is present on page number 475 (508 of 878)
+
+Figure 12-28. Upsampling using a transposed convolutional layer on page number: 509. This includes an offset of 33. That is this Figure 12-28 is present on page number 476 (509 of 878)
+
+Figure 12-29. ) on page number: 509. This includes an offset of 33. That is this Figure 12-29 is present on page number 476 (509 of 878)
+
+Figure 12-29. Skip layers recover some spatial resolution from lower layers on page number: 510. This includes an offset of 33. That is this Figure 12-29 is present on page number 477 (510 of 878)
+
+Figure 13-1. , left). At on page number: 514. This includes an offset of 33. That is this Figure 13-1 is present on page number 481 (514 of 878)
+
+Figure 13-1. , right). This is called unrolling the on page number: 514. This includes an offset of 33. That is this Figure 13-1 is present on page number 481 (514 of 878)
+
+Figure 13-1. A recurrent neuron (left)  unrolled through time (right) on page number: 514. This includes an offset of 33. That is this Figure 13-1 is present on page number 481 (514 of 878)
+
+Figure 13-2. . Note that both the inputs and outputs are now vectors on page number: 514. This includes an offset of 33. That is this Figure 13-2 is present on page number 481 (514 of 878)
+
+Figure 13-2. A layer of recurrent neurons (left)  unrolled through time (right) on page number: 515. This includes an offset of 33. That is this Figure 13-2 is present on page number 482 (515 of 878)
+
+Figure 13-2. ) on page number: 531. This includes an offset of 33. That is this Figure 13-2 is present on page number 498 (531 of 878)
+
+Figure 13-3.  on page number: 517. This includes an offset of 33. That is this Figure 13-3 is present on page number 484 (517 of 878)
+
+Figure 13-3. A cell’s hidden state and its output may be different on page number: 517. This includes an offset of 33. That is this Figure 13-3 is present on page number 484 (517 of 878)
+
+Figure 13-4. ). This type of sequence-to-sequence on page number: 517. This includes an offset of 33. That is this Figure 13-4 is present on page number 484 (517 of 878)
+
+Figure 13-4. ). This is a sequence- on page number: 517. This includes an offset of 33. That is this Figure 13-4 is present on page number 484 (517 of 878)
+
+Figure 13-4. ). This is a vector-to-sequence network . For example, the input could be an on page number: 518. This includes an offset of 33. That is this Figure 13-4 is present on page number 485 (518 of 878)
+
+Figure 13-4. Sequence-to-sequence (top left),  sequence-to-vector (top right), vector-to- on page number: 518. This includes an offset of 33. That is this Figure 13-4 is present on page number 485 (518 of 878)
+
+Figure 13-4. ). For example, this could be used for translating a sentence from one on page number: 518. This includes an offset of 33. That is this Figure 13-4 is present on page number 485 (518 of 878)
+
+Figure 13-4. suggests) on page number: 518. This includes an offset of 33. That is this Figure 13-4 is present on page number 485 (518 of 878)
+
+Figure 13-5. ). This strategy is called backpropagation on page number: 519. This includes an offset of 33. That is this Figure 13-5 is present on page number 486 (519 of 878)
+
+Figure 13-5. , the loss function is on page number: 519. This includes an offset of 33. That is this Figure 13-5 is present on page number 486 (519 of 878)
+
+Figure 13-5. Backpropagation through time on page number: 519. This includes an offset of 33. That is this Figure 13-5 is present on page number 486 (519 of 878)
+
+Figure 13-6. ): on page number: 520. This includes an offset of 33. That is this Figure 13-6 is present on page number 487 (520 of 878)
+
+Figure 13-6. Daily ridership in Chicago on page number: 521. This includes an offset of 33. That is this Figure 13-6 is present on page number 488 (521 of 878)
+
+Figure 13-6. , we can see that a similar pattern is clearly repeated every on page number: 521. This includes an offset of 33. That is this Figure 13-6 is present on page number 488 (521 of 878)
+
+Figure 13-7. ): on page number: 521. This includes an offset of 33. That is this Figure 13-7 is present on page number 488 (521 of 878)
+
+Figure 13-7. Time series overlaid with 7-day lagged time series (top), and difference on page number: 522. This includes an offset of 33. That is this Figure 13-7 is present on page number 489 (522 of 878)
+
+Figure 13-8. ): on page number: 523. This includes an offset of 33. That is this Figure 13-8 is present on page number 490 (523 of 878)
+
+Figure 13-8. Yearly seasonality and long-term trends on page number: 524. This includes an offset of 33. That is this Figure 13-8 is present on page number 491 (524 of 878)
+
+Figure 13-9. ): on page number: 524. This includes an offset of 33. That is this Figure 13-9 is present on page number 491 (524 of 878)
+
+Figure 13-9. The 12-month difference on page number: 524. This includes an offset of 33. That is this Figure 13-9 is present on page number 491 (524 of 878)
+
+Figure 13-10. . This on page number: 534. This includes an offset of 33. That is this Figure 13-10 is present on page number 501 (534 of 878)
+
+Figure 13-10. A deep RNN (left)  unrolled through time (right) on page number: 534. This includes an offset of 33. That is this Figure 13-10 is present on page number 501 (534 of 878)
+
+Figure 13-10. ), but not within on page number: 542. This includes an offset of 33. That is this Figure 13-10 is present on page number 509 (542 of 878)
+
+Figure 13-11.  on page number: 537. This includes an offset of 33. That is this Figure 13-11 is present on page number 504 (537 of 878)
+
+Figure 13-11. Forecasting 14 steps ahead, 1 step at a time on page number: 537. This includes an offset of 33. That is this Figure 13-11 is present on page number 504 (537 of 878)
+
+Figure 13-12.  on page number: 544. This includes an offset of 33. That is this Figure 13-12 is present on page number 511 (544 of 878)
+
+Figure 13-12. An LSTM cell on page number: 544. This includes an offset of 33. That is this Figure 13-12 is present on page number 511 (544 of 878)
+
+Figure 13-13. ) was proposed by Kyunghyun on page number: 547. This includes an offset of 33. That is this Figure 13-13 is present on page number 514 (547 of 878)
+
+Figure 13-13. GRU cell on page number: 547. This includes an offset of 33. That is this Figure 13-13 is present on page number 514 (547 of 878)
+
+Figure 13-14. ). This way, the lower layers learn short-term on page number: 550. This includes an offset of 33. That is this Figure 13-14 is present on page number 517 (550 of 878)
+
+Figure 13-14. WaveNet architecture on page number: 551. This includes an offset of 33. That is this Figure 13-14 is present on page number 518 (551 of 878)
+
+Figure 14-1. ) on page number: 559. This includes an offset of 33. That is this Figure 14-1 is present on page number 526 (559 of 878)
+
+Figure 14-1. Each training batch is composed of shuffled  windows, along with their on page number: 559. This includes an offset of 33. That is this Figure 14-1 is present on page number 526 (559 of 878)
+
+Figure 14-2. ). Indeed, the better on page number: 560. This includes an offset of 33. That is this Figure 14-2 is present on page number 527 (560 of 878)
+
+Figure 14-2. Embeddings will gradually improve during training on page number: 561. This includes an offset of 33. That is this Figure 14-2 is present on page number 528 (561 of 878)
+
+Figure 14-3. ). In other words, the word embeddings encode the concept of gender! on page number: 561. This includes an offset of 33. That is this Figure 14-3 is present on page number 528 (561 of 878)
+
+Figure 14-3. Word embeddings of similar words tend to be close, and some axes seem to on page number: 562. This includes an offset of 33. That is this Figure 14-3 is present on page number 529 (562 of 878)
+
+Figure 14-4. ) on page number: 579. This includes an offset of 33. That is this Figure 14-4 is present on page number 546 (579 of 878)
+
+Figure 14-4. A bidirectional recurrent layer on page number: 579. This includes an offset of 33. That is this Figure 14-4 is present on page number 546 (579 of 878)
+
+Figure 14-5. ) on page number: 590. This includes an offset of 33. That is this Figure 14-5 is present on page number 557 (590 of 878)
+
+Figure 14-5. A simple machine translation model on page number: 590. This includes an offset of 33. That is this Figure 14-5 is present on page number 557 (590 of 878)
+
+Figure 14-5. , except on page number: 594. This includes an offset of 33. That is this Figure 14-5 is present on page number 561 (594 of 878)
+
+Figure 14-6. (this will require an embedding lookup that is on page number: 591. This includes an offset of 33. That is this Figure 14-6 is present on page number 558 (591 of 878)
+
+Figure 14-6. At inference time, the decoder is fed as input the word it just output at the on page number: 591. This includes an offset of 33. That is this Figure 14-6 is present on page number 558 (591 of 878)
+
+Figure 14-7. ). At the first decoder on page number: 597. This includes an offset of 33. That is this Figure 14-7 is present on page number 564 (597 of 878)
+
+Figure 14-7. Beam search, with a beam width of three on page number: 598. This includes an offset of 33. That is this Figure 14-7 is present on page number 565 (598 of 878)
+
+Figure 14-8. shows our encoder-decoder model with an added attention mechanism: on page number: 599. This includes an offset of 33. That is this Figure 14-8 is present on page number 566 (599 of 878)
+
+Figure 14-8. Neural machine translation using an encoder-decoder network with an on page number: 600. This includes an offset of 33. That is this Figure 14-8 is present on page number 567 (600 of 878)
+
+Figure 14-8. : on page number: 601. This includes an offset of 33. That is this Figure 14-8 is present on page number 568 (601 of 878)
+
+Figure 14-8. , the model has already output “me gusta el” (mean‐ on page number: 601. This includes an offset of 33. That is this Figure 14-8 is present on page number 568 (601 of 878)
+
+Figure 15-1. ): on page number: 607. This includes an offset of 33. That is this Figure 15-1 is present on page number 574 (607 of 878)
+
+Figure 15-1. Using the Transformer model for English-to-Spanish translation on page number: 608. This includes an offset of 33. That is this Figure 15-1 is present on page number 575 (608 of 878)
+
+Figure 15-2. shows some of the on page number: 609. This includes an offset of 33. That is this Figure 15-2 is present on page number 576 (609 of 878)
+
+Figure 15-2. Some of the most influential  transformers released since 2018; see it larger on page number: 609. This includes an offset of 33. That is this Figure 15-2 is present on page number 576 (609 of 878)
+
+Figure 15-3. . The left on page number: 611. This includes an offset of 33. That is this Figure 15-3 is present on page number 578 (611 of 878)
+
+Figure 15-3. The original 2017 transformer architecture4 on page number: 612. This includes an offset of 33. That is this Figure 15-3 is present on page number 579 (612 of 878)
+
+Figure 15-3. : on page number: 613. This includes an offset of 33. That is this Figure 15-3 is present on page number 580 (613 of 878)
+
+Figure 15-3. represent the keys and values, and the third arrow rep‐ on page number: 614. This includes an offset of 33. That is this Figure 15-3 is present on page number 581 (614 of 878)
+
+Figure 15-3. , except it sprinkles a bit of dropout on page number: 620. This includes an offset of 33. That is this Figure 15-3 is present on page number 587 (620 of 878)
+
+Figure 15-3. , with some additional on page number: 621. This includes an offset of 33. That is this Figure 15-3 is present on page number 588 (621 of 878)
+
+Figure 15-3. (as we saw in earlier chapters, the softmax on page number: 622. This includes an offset of 33. That is this Figure 15-3 is present on page number 589 (622 of 878)
+
+Figure 15-4.  on page number: 616. This includes an offset of 33. That is this Figure 15-4 is present on page number 583 (616 of 878)
+
+Figure 15-4. Multi-head attention layer architecture6 on page number: 617. This includes an offset of 33. That is this Figure 15-4 is present on page number 584 (617 of 878)
+
+Figure 15-5. and on page number: 626. This includes an offset of 33. That is this Figure 15-5 is present on page number 593 (626 of 878)
+
+Figure 15-5. Input and target during BERT pretraining, using MLM and NSP on page number: 627. This includes an offset of 33. That is this Figure 15-5 is present on page number 594 (627 of 878)
+
+Figure 15-6. ), using a large corpus of text—specifically the English on page number: 626. This includes an offset of 33. That is this Figure 15-6 is present on page number 593 (626 of 878)
+
+Figure 15-6. ) on page number: 628. This includes an offset of 33. That is this Figure 15-6 is present on page number 595 (628 of 878)
+
+Figure 15-6. BERT pre-training (left)  and fine-tuning  process (right)8 on page number: 629. This includes an offset of 33. That is this Figure 15-6 is present on page number 596 (629 of 878)
+
+Figure 15-7. ). Y ou can then fine-tune the whole model using the cross-entropy on page number: 629. This includes an offset of 33. That is this Figure 15-7 is present on page number 596 (629 of 878)
+
+Figure 15-7. ). For example, BERT can be fine-tuned  for named on page number: 630. This includes an offset of 33. That is this Figure 15-7 is present on page number 597 (630 of 878)
+
+Figure 15-7. Fine-tuning BERT for sentence classification  such as sentiment analysis on page number: 630. This includes an offset of 33. That is this Figure 15-7 is present on page number 597 (630 of 878)
+
+Figure 15-8. ), and we can use the on page number: 630. This includes an offset of 33. That is this Figure 15-8 is present on page number 597 (630 of 878)
+
+Figure 15-8. Using an encoder-only model to answer multiple-choice questions on page number: 631. This includes an offset of 33. That is this Figure 15-8 is present on page number 598 (631 of 878)
+
+Figure 15-9. ). These are soft targets on page number: 634. This includes an offset of 33. That is this Figure 15-9 is present on page number 601 (634 of 878)
+
+Figure 15-9. DistilBERT pretraining using a weighted sum of two distillation losses and on page number: 634. This includes an offset of 33. That is this Figure 15-9 is present on page number 601 (634 of 878)
+
+Figure 15-10. ). In practice, this can be implemented by reducing the embedding on page number: 635. This includes an offset of 33. That is this Figure 15-10 is present on page number 602 (635 of 878)
+
+Figure 15-10. An excessively large embedding matrix can be replaced with the product of on page number: 636. This includes an offset of 33. That is this Figure 15-10 is present on page number 603 (636 of 878)
+
+Figure 15-11. ), if the original text is “She likes him” and it is masked on page number: 636. This includes an offset of 33. That is this Figure 15-11 is present on page number 603 (636 of 878)
+
+Figure 15-11. Replaced token detection (RTD) on page number: 637. This includes an offset of 33. That is this Figure 15-11 is present on page number 604 (637 of 878)
+
+Figure 15-12. ) on page number: 639. This includes an offset of 33. That is this Figure 15-12 is present on page number 606 (639 of 878)
+
+Figure 15-12. Generating text one token at a time using a decoder-only model like GPT on page number: 639. This includes an offset of 33. That is this Figure 15-12 is present on page number 606 (639 of 878)
+
+Figure 15-13.  on page number: 641. This includes an offset of 33. That is this Figure 15-13 is present on page number 608 (641 of 878)
+
+Figure 15-13. Pretraining GPT-1 using next token prediction (NTP , left) and fine-tuning on page number: 642. This includes an offset of 33. That is this Figure 15-13 is present on page number 609 (642 of 878)
+
+Figure 15-14. ). If on page number: 648. This includes an offset of 33. That is this Figure 15-14 is present on page number 615 (648 of 878)
+
+Figure 15-14. The Mistral-7B-v0.3 model on the Hugging Face Hub requires agreeing to on page number: 648. This includes an offset of 33. That is this Figure 15-14 is present on page number 615 (648 of 878)
+
+Figure 15-15. ), then scroll down to the “Repositories on page number: 649. This includes an offset of 33. That is this Figure 15-15 is present on page number 616 (649 of 878)
+
+Figure 15-15. Creating a Hugging Face access token on page number: 649. This includes an offset of 33. That is this Figure 15-15 is present on page number 616 (649 of 878)
+
+Figure 15-16. ) on page number: 650. This includes an offset of 33. That is this Figure 15-16 is present on page number 617 (650 of 878)
+
+Figure 15-16. Storing the access token using Colab’s secrets manager on page number: 650. This includes an offset of 33. That is this Figure 15-16 is present on page number 617 (650 of 878)
+
+Figure 15-17. summarizes the steps required to build a full chatbot system . Y ou on page number: 656. This includes an offset of 33. That is this Figure 15-17 is present on page number 623 (656 of 878)
+
+Figure 15-17. How to build a chatbot: pretraining, two-step fine-tuning,  and deployment on page number: 656. This includes an offset of 33. That is this Figure 15-17 is present on page number 623 (656 of 878)
+
+Figure 15-17. ). This system usually includes a web interface and an app on page number: 663. This includes an offset of 33. That is this Figure 15-17 is present on page number 630 (663 of 878)
+
+Figure 16-1. , the model generated the caption “ A on page number: 675. This includes an offset of 33. That is this Figure 16-1 is present on page number 642 (675 of 878)
+
+Figure 16-1. Visual attention: an input image (left)  and the model’s focus before produc‐ on page number: 675. This includes an offset of 33. That is this Figure 16-1 is present on page number 642 (675 of 878)
+
+Figure 16-2. ).4 The CNN first processes the input images and outputs a set of feature on page number: 676. This includes an offset of 33. That is this Figure 16-2 is present on page number 643 (676 of 878)
+
+Figure 16-2. The detection transformer (DETR) for object detection on page number: 677. This includes an offset of 33. That is this Figure 16-2 is present on page number 644 (677 of 878)
+
+Figure 16-3. ). It was simply named the on page number: 677. This includes an offset of 33. That is this Figure 16-3 is present on page number 644 (677 of 878)
+
+Figure 16-3. Vision transformer (ViT) for classification on page number: 678. This includes an offset of 33. That is this Figure 16-3 is present on page number 645 (678 of 878)
+
+Figure 16-4. ), but the authors used a distillation technique to transfer knowledge on page number: 682. This includes an offset of 33. That is this Figure 16-4 is present on page number 649 (682 of 878)
+
+Figure 16-4. Data-efficient  image transformer (DeiT) = ViT + distillation on page number: 683. This includes an offset of 33. That is this Figure 16-4 is present on page number 650 (683 of 878)
+
+Figure 16-5. shows how a 256 × 192 image with 3 channels (RGB) is first turned into a on page number: 683. This includes an offset of 33. That is this Figure 16-5 is present on page number 650 (683 of 878)
+
+Figure 16-5. Pyramid Vision Transformer for dense prediction tasks on page number: 684. This includes an offset of 33. That is this Figure 16-5 is present on page number 651 (684 of 878)
+
+Figure 16-6. , the image is chopped into a 28 × on page number: 686. This includes an offset of 33. That is this Figure 16-6 is present on page number 653 (686 of 878)
+
+Figure 16-6. Swin Transformer: alternates W-MSA (left)  and SW-MSA (center); SW- on page number: 686. This includes an offset of 33. That is this Figure 16-6 is present on page number 653 (686 of 878)
+
+Figure 16-6. , the windows are on page number: 686. This includes an offset of 33. That is this Figure 16-6 is present on page number 653 (686 of 878)
+
+Figure 16-6. , you can see on page number: 687. This includes an offset of 33. That is this Figure 16-6 is present on page number 654 (687 of 878)
+
+Figure 16-6. . This way, we’re back to 16 windows on page number: 687. This includes an offset of 33. That is this Figure 16-6 is present on page number 654 (687 of 878)
+
+Figure 16-7. ). Gradient descent only on page number: 687. This includes an offset of 33. That is this Figure 16-7 is present on page number 654 (687 of 878)
+
+Figure 16-7. DINO, or self-distillation with no labels on page number: 688. This includes an offset of 33. That is this Figure 16-7 is present on page number 655 (688 of 878)
+
+Figure 16-8. .11 See the notebook for a code example that uses DINO to plot a similar on page number: 689. This includes an offset of 33. That is this Figure 16-8 is present on page number 656 (689 of 878)
+
+Figure 16-8. Unsupervised image segmentation using DINO—different  attention heads on page number: 689. This includes an offset of 33. That is this Figure 16-8 is present on page number 656 (689 of 878)
+
+Figure 16-9. ): on page number: 694. This includes an offset of 33. That is this Figure 16-9 is present on page number 661 (694 of 878)
+
+Figure 16-9. VideoBERT—encoding a video into a text sequence and a visual sequence on page number: 695. This includes an offset of 33. That is this Figure 16-9 is present on page number 662 (695 of 878)
+
+Figure 16-10. shows all three modes at once, but keep in mind that they are on page number: 696. This includes an offset of 33. That is this Figure 16-10 is present on page number 663 (696 of 878)
+
+Figure 16-10. VideoBERT—pretraining using masked token prediction and linguistic- on page number: 696. This includes an offset of 33. That is this Figure 16-10 is present on page number 663 (696 of 878)
+
+Figure 16-11. ). Specifically, in each pair of connected encoder layers, on page number: 698. This includes an offset of 33. That is this Figure 16-11 is present on page number 665 (698 of 878)
+
+Figure 16-11. Two encoder layers connected through co-attention: the MHA query of on page number: 698. This includes an offset of 33. That is this Figure 16-11 is present on page number 665 (698 of 878)
+
+Figure 16-12. ). The visual features are produced by a on page number: 698. This includes an offset of 33. That is this Figure 16-12 is present on page number 665 (698 of 878)
+
+Figure 16-12. ViLBert pretraining using masked token prediction and linguistic-visual on page number: 699. This includes an offset of 33. That is this Figure 16-12 is present on page number 666 (699 of 878)
+
+Figure 16-13. CLIP: a batch of image-caption pairs is encoded as vectors, then matching on page number: 702. This includes an offset of 33. That is this Figure 16-13 is present on page number 669 (702 of 878)
+
+Figure 16-13. shows m = 4, but the authors used a shockingly large batch size of m = on page number: 702. This includes an offset of 33. That is this Figure 16-13 is present on page number 669 (702 of 878)
+
+Figure 16-13. , this matrix is represented by the 4 × 4 grid (black is +1, on page number: 703. This includes an offset of 33. That is this Figure 16-13 is present on page number 670 (703 of 878)
+
+Figure 16-14. ): a GPT-like model on page number: 705. This includes an offset of 33. That is this Figure 16-14 is present on page number 672 (705 of 878)
+
+Figure 16-14. DALL·E (left)  and DALL·E 2 (right) on page number: 706. This includes an offset of 33. That is this Figure 16-14 is present on page number 673 (706 of 878)
+
+Figure 16-15.  on page number: 707. This includes an offset of 33. That is this Figure 16-15 is present on page number 674 (707 of 878)
+
+Figure 16-15. Perceiver architecture: inputs are ingested through cross-attention layers, on page number: 707. This includes an offset of 33. That is this Figure 16-15 is present on page number 674 (707 of 878)
+
+Figure 16-16. ): on page number: 710. This includes an offset of 33. That is this Figure 16-16 is present on page number 677 (710 of 878)
+
+Figure 16-16. Perceiver IO architecture: one output query token per desired output token on page number: 711. This includes an offset of 33. That is this Figure 16-16 is present on page number 678 (711 of 878)
+
+Figure 16-17. ): on page number: 712. This includes an offset of 33. That is this Figure 16-17 is present on page number 679 (712 of 878)
+
+Figure 16-17. Flamingo takes any sequence of text and images, and outputs coherent on page number: 713. This includes an offset of 33. That is this Figure 16-17 is present on page number 680 (713 of 878)
+
+Figure 16-18.  on page number: 715. This includes an offset of 33. That is this Figure 16-18 is present on page number 682 (715 of 878)
+
+Figure 16-18. BLIP-2 pretraining, Stage 1: training the Q-Former on page number: 715. This includes an offset of 33. That is this Figure 16-18 is present on page number 682 (715 of 878)
+
+Figure 16-19. ): on page number: 717. This includes an offset of 33. That is this Figure 16-19 is present on page number 684 (717 of 878)
+
+Figure 16-19. BLIP-2 pretraining, Stage 2: training the linear layer to map the query on page number: 718. This includes an offset of 33. That is this Figure 16-19 is present on page number 685 (718 of 878)
+
+Figure 18-1. , the autoencoder is a regular multilayer per‐ on page number: 727. This includes an offset of 33. That is this Figure 18-1 is present on page number 694 (727 of 878)
+
+Figure 18-1. The chess memory experiment (left)  and a simple autoencoder (right) on page number: 728. This includes an offset of 33. That is this Figure 18-1 is present on page number 695 (728 of 878)
+
+Figure 18-2. shows the original 3D dataset (on the left) and the output of the on page number: 730. This includes an offset of 33. That is this Figure 18-2 is present on page number 697 (730 of 878)
+
+Figure 18-2. Approximate PCA performed by an undercomplete linear autoencoder on page number: 730. This includes an offset of 33. That is this Figure 18-2 is present on page number 697 (730 of 878)
+
+Figure 18-3. . Note that all on page number: 731. This includes an offset of 33. That is this Figure 18-3 is present on page number 698 (731 of 878)
+
+Figure 18-3. Stacked autoencoder on page number: 731. This includes an offset of 33. That is this Figure 18-3 is present on page number 698 (731 of 878)
+
+Figure 18-4. Original images (top) and their reconstructions (bottom) on page number: 733. This includes an offset of 33. That is this Figure 18-4 is present on page number 700 (733 of 878)
+
+Figure 18-4. shows the resulting images. The reconstructions are recognizable, but a on page number: 733. This includes an offset of 33. That is this Figure 18-4 is present on page number 700 (733 of 878)
+
+Figure 18-5. shows some MNIST digits and their reconstructions using the on page number: 733. This includes an offset of 33. That is this Figure 18-5 is present on page number 700 (733 of 878)
+
+Figure 18-5. Out-of-distribution images are poorly reconstructed on page number: 734. This includes an offset of 33. That is this Figure 18-5 is present on page number 701 (734 of 878)
+
+Figure 18-6. shows the resulting scatterplot, beautified a bit by displaying some of on page number: 734. This includes an offset of 33. That is this Figure 18-6 is present on page number 701 (734 of 878)
+
+Figure 18-6. Fashion MNIST visualization using an autoencoder, followed by t-SNE on page number: 735. This includes an offset of 33. That is this Figure 18-6 is present on page number 702 (735 of 878)
+
+Figure 18-7. shows how to use a stacked autoencoder to perform unsupervised pre‐ on page number: 735. This includes an offset of 33. That is this Figure 18-7 is present on page number 702 (735 of 878)
+
+Figure 18-7. Unsupervised pretraining using autoencoders on page number: 736. This includes an offset of 33. That is this Figure 18-7 is present on page number 703 (736 of 878)
+
+Figure 18-8. . This on page number: 737. This includes an offset of 33. That is this Figure 18-8 is present on page number 704 (737 of 878)
+
+Figure 18-8. (i.e., we first stack the encoder on page number: 737. This includes an offset of 33. That is this Figure 18-8 is present on page number 704 (737 of 878)
+
+Figure 18-8. Training one autoencoder at a time on page number: 738. This includes an offset of 33. That is this Figure 18-8 is present on page number 705 (738 of 878)
+
+Figure 18-9. shows both options on page number: 740. This includes an offset of 33. That is this Figure 18-9 is present on page number 707 (740 of 878)
+
+Figure 18-9. Denoising autoencoders, with Gaussian noise (left)  or dropout (right) on page number: 740. This includes an offset of 33. That is this Figure 18-9 is present on page number 707 (740 of 878)
+
+Figure 18-10. shows a few noisy images (with half of the pixels turned off), and the on page number: 741. This includes an offset of 33. That is this Figure 18-10 is present on page number 708 (741 of 878)
+
+Figure 18-10. Noisy images (top) and their reconstructions (bottom) on page number: 741. This includes an offset of 33. That is this Figure 18-10 is present on page number 708 (741 of 878)
+
+Figure 18-11.  on page number: 742. This includes an offset of 33. That is this Figure 18-11 is present on page number 709 (742 of 878)
+
+Figure 18-11. Sparsity loss with target sparsity p = 0.1 on page number: 742. This includes an offset of 33. That is this Figure 18-11 is present on page number 709 (742 of 878)
+
+Figure 18-12. (left) shows a variational autoen‐ on page number: 745. This includes an offset of 33. That is this Figure 18-12 is present on page number 712 (745 of 878)
+
+Figure 18-12. , although the inputs may have a very convoluted on page number: 745. This includes an offset of 33. That is this Figure 18-12 is present on page number 712 (745 of 878)
+
+Figure 18-12. A variational autoencoder (left)  and an instance going through it (right) on page number: 746. This includes an offset of 33. That is this Figure 18-12 is present on page number 713 (746 of 878)
+
+Figure 18-12. (left) on page number: 747. This includes an offset of 33. That is this Figure 18-12 is present on page number 714 (747 of 878)
+
+Figure 18-12. , except using the γ tweak: on page number: 747. This includes an offset of 33. That is this Figure 18-12 is present on page number 714 (747 of 878)
+
+Figure 18-13. shows the 21 generated images on page number: 749. This includes an offset of 33. That is this Figure 18-13 is present on page number 716 (749 of 878)
+
+Figure 18-13. Fashion MNIST images generated by the variational autoencoder on page number: 749. This includes an offset of 33. That is this Figure 18-13 is present on page number 716 (749 of 878)
+
+Figure 18-14. ): on page number: 750. This includes an offset of 33. That is this Figure 18-14 is present on page number 717 (750 of 878)
+
+Figure 18-14. Semantic interpolation on page number: 750. This includes an offset of 33. That is this Figure 18-14 is present on page number 717 (750 of 878)
+
+Figure 18-15. , a GAN on page number: 754. This includes an offset of 33. That is this Figure 18-15 is present on page number 721 (754 of 878)
+
+Figure 18-15. A generative adversarial network on page number: 755. This includes an offset of 33. That is this Figure 18-15 is present on page number 722 (755 of 878)
+
+Figure 18-16. ), you will see that at the end of on page number: 758. This includes an offset of 33. That is this Figure 18-16 is present on page number 725 (758 of 878)
+
+Figure 18-16. Images generated by the GAN after  one epoch of training on page number: 758. This includes an offset of 33. That is this Figure 18-16 is present on page number 725 (758 of 878)
+
+Figure 18-17. ) on page number: 759. This includes an offset of 33. That is this Figure 18-17 is present on page number 726 (759 of 878)
+
+Figure 18-17. Mode collapse while training a GAN (top row) versus successful training on page number: 759. This includes an offset of 33. That is this Figure 18-17 is present on page number 726 (759 of 878)
+
+Figure 18-17. ) on page number: 760. This includes an offset of 33. That is this Figure 18-17 is present on page number 727 (760 of 878)
+
+Figure 18-18. ), noted x0, and at each time step t you add a little bit on page number: 761. This includes an offset of 33. That is this Figure 18-18 is present on page number 728 (761 of 878)
+
+Figure 18-18. The forward process q and reverse process p on page number: 761. This includes an offset of 33. That is this Figure 18-18 is present on page number 728 (761 of 878)
+
+Figure 18-18. ) on page number: 762. This includes an offset of 33. That is this Figure 18-18 is present on page number 729 (762 of 878)
+
+Figure 18-19.  on page number: 763. This includes an offset of 33. That is this Figure 18-19 is present on page number 730 (763 of 878)
+
+Figure 18-19. Noise variance schedule βt, and the remaining signal variance α ̅t on page number: 763. This includes an offset of 33. That is this Figure 18-19 is present on page number 730 (763 of 878)
+
+Figure 18-20. . Granted, they’re not very impressive, but we’ve on page number: 767. This includes an offset of 33. That is this Figure 18-20 is present on page number 734 (767 of 878)
+
+Figure 18-20. Images generated by DDIM accelerated diffusion on page number: 767. This includes an offset of 33. That is this Figure 18-20 is present on page number 734 (767 of 878)
+
+Figure 18-21. A picture generated by Stable Diffusion  using the Diffusers  library on page number: 768. This includes an offset of 33. That is this Figure 18-21 is present on page number 735 (768 of 878)
+
+Figure 19-1. ): on page number: 772. This includes an offset of 33. That is this Figure 19-1 is present on page number 739 (772 of 878)
+
+Figure 19-1. Reinforcement learning examples: (a) robotics, (b) Ms. Pac-Man, (c) Go on page number: 773. This includes an offset of 33. That is this Figure 19-1 is present on page number 740 (773 of 878)
+
+Figure 19-1. ). There on page number: 795. This includes an offset of 33. That is this Figure 19-1 is present on page number 762 (795 of 878)
+
+Figure 19-2. ) on page number: 774. This includes an offset of 33. That is this Figure 19-2 is present on page number 741 (774 of 878)
+
+Figure 19-2. Reinforcement learning using a neural network policy on page number: 774. This includes an offset of 33. That is this Figure 19-2 is present on page number 741 (774 of 878)
+
+Figure 19-3. ). This is an example of policy search , in this case on page number: 774. This includes an offset of 33. That is this Figure 19-3 is present on page number 741 (774 of 878)
+
+Figure 19-3. Four points in the policy space (left)  and the agent’s corresponding behavior on page number: 775. This includes an offset of 33. That is this Figure 19-3 is present on page number 742 (775 of 878)
+
+Figure 19-4. )—a classic control task. I’ll explain render_mode  and on page number: 776. This includes an offset of 33. That is this Figure 19-4 is present on page number 743 (776 of 878)
+
+Figure 19-4. The CartPole environment on page number: 777. This includes an offset of 33. That is this Figure 19-4 is present on page number 744 (777 of 878)
+
+Figure 19-5. ). In the on page number: 779. This includes an offset of 33. That is this Figure 19-5 is present on page number 746 (779 of 878)
+
+Figure 19-5. Neural network policy on page number: 780. This includes an offset of 33. That is this Figure 19-5 is present on page number 747 (780 of 878)
+
+Figure 19-6. . If an agent decides to go right three times in a row and gets on page number: 782. This includes an offset of 33. That is this Figure 19-6 is present on page number 749 (782 of 878)
+
+Figure 19-6. Computing an action’s return: the sum of discounted future rewards on page number: 782. This includes an offset of 33. That is this Figure 19-6 is present on page number 749 (782 of 878)
+
+Figure 19-7. shows an example of a Markov chain with four states on page number: 787. This includes an offset of 33. That is this Figure 19-7 is present on page number 754 (787 of 878)
+
+Figure 19-7. Example of a Markov chain on page number: 787. This includes an offset of 33. That is this Figure 19-7 is present on page number 754 (787 of 878)
+
+Figure 19-8. has three states (represented on page number: 787. This includes an offset of 33. That is this Figure 19-8 is present on page number 754 (787 of 878)
+
+Figure 19-8. Example of a Markov decision process on page number: 788. This includes an offset of 33. That is this Figure 19-8 is present on page number 755 (788 of 878)
+
+Figure 19-8. , T(s2, a1, s0) = 0.8. Note that on page number: 789. This includes an offset of 33. That is this Figure 19-8 is present on page number 756 (789 of 878)
+
+Figure 19-8. , R(s2, a1, on page number: 789. This includes an offset of 33. That is this Figure 19-8 is present on page number 756 (789 of 878)
+
+Figure 19-8. . First, we need to on page number: 790. This includes an offset of 33. That is this Figure 19-8 is present on page number 757 (790 of 878)
+
+Figure 19-9. , the on page number: 793. This includes an offset of 33. That is this Figure 19-9 is present on page number 760 (793 of 878)
+
+Figure 19-9. Learning curve of the Q-value iteration algorithm versus the Q-learning on page number: 794. This includes an offset of 33. That is this Figure 19-9 is present on page number 761 (794 of 878)
+
+Figure 19-10.  on page number: 800. This includes an offset of 33. That is this Figure 19-10 is present on page number 767 (800 of 878)
+
+Figure 19-10. Learning curve of the deep Q-learning algorithm on page number: 800. This includes an offset of 33. That is this Figure 19-10 is present on page number 767 (800 of 878)
+
+Figure 19-11. ) on page number: 808. This includes an offset of 33. That is this Figure 19-11 is present on page number 775 (808 of 878)
+
+Figure 19-11. A Breakout frame before (left)  and after  (right) preprocessing on page number: 809. This includes an offset of 33. That is this Figure 19-11 is present on page number 776 (809 of 878)
+
